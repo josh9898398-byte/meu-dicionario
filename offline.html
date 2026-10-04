@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>离线 · Meu Dicionário</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      margin: 0; min-height: 100vh; display: grid; place-content: center; gap: 12px;
+      padding: 32px; text-align: center;
+      font: 16px/1.6 -apple-system, BlinkMacSystemFont, "PingFang SC", "Segoe UI", sans-serif;
+      background: Canvas; color: CanvasText;
+    }
+    h1 { font-size: 20px; margin: 0; }
+    p { margin: 0; opacity: .75; max-width: 30ch; }
+    button {
+      margin-top: 8px; padding: 14px 20px; border-radius: 14px; border: 1px solid currentColor;
+      background: transparent; color: inherit; font: inherit; font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <h1>离线中</h1>
+  <p>应用外壳还没有缓存完成。请连上网络打开一次应用，之后即可离线使用词典、生词本和已缓存的语音。</p>
+  <button type="button" onclick="location.reload()">重试</button>
+</body>
+</html>

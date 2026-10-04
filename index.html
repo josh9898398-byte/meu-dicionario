@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>Meu Dicionário · 巴西葡语个人词典</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="description" content="个人巴西葡语词典 + 生词本 + AI 学习工具，支持离线使用。" />
+
+  <!-- iOS PWA -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Meu Dicionário" />
+  <meta name="format-detection" content="telephone=no" />
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/icons/apple-touch-icon.png" />
+  <link rel="apple-touch-icon" sizes="192x192" href="./assets/icons/icon-192.png" />
+  <link rel="icon" type="image/svg+xml" href="./assets/icons/favicon.svg" />
+  <link rel="mask-icon" href="./assets/icons/favicon.svg" color="#0f766e" />
+
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <meta name="theme-color" content="#0f766e" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0b1220" media="(prefers-color-scheme: dark)" />
+  <meta name="color-scheme" content="light dark" />
+
+  <link rel="stylesheet" href="./src/styles/app.css" />
+  <link rel="stylesheet" href="./src/styles/pages.css" />
+
+  <script src="./app-config.js"></script>
+</head>
+<body>
+  <div class="app" id="app">
+    <a class="skip-link" href="#view">跳到主内容</a>
+
+    <header class="appbar" id="appbar">
+      <div class="appbar__row">
+        <button class="iconbtn" id="appbar-back" type="button" aria-label="返回" hidden>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7" /></svg>
+        </button>
+        <h1 class="appbar__title" id="appbar-title">Meu Dicionário</h1>
+        <div class="appbar__actions" id="appbar-actions"></div>
+      </div>
+      <div class="appbar__status" id="appbar-status" hidden></div>
+    </header>
+
+    <main class="view" id="view" tabindex="-1"></main>
+
+    <nav class="tabbar" id="tabbar" aria-label="主导航"></nav>
+  </div>
+
+  <div class="sheet-host" id="sheet-host" aria-live="polite"></div>
+  <div class="toast-host" id="toast-host" aria-live="polite" aria-atomic="false"></div>
+  <div class="boot" id="boot">
+    <div class="boot__logo" aria-hidden="true">
+      <svg viewBox="0 0 64 64"><path d="M12 8h28a8 8 0 0 1 8 8v40l-16-9-16 9V16a8 8 0 0 1 8-8z" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linejoin="round"/></svg>
+    </div>
+    <p class="boot__text">正在启动…</p>
+    <noscript><p class="boot__warn">此应用需要 JavaScript。请在 iPhone 设置 → Safari → 高级 中开启 JavaScript。</p></noscript>
+  </div>
+
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

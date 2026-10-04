@@ -1,0 +1,43 @@
+{
+  "id": "meu-dicionario-ptbr",
+  "name": "Meu Dicionário · 巴西葡语个人词典",
+  "short_name": "Meu Dicionário",
+  "description": "个人巴西葡语词典 + 生词本 + AI 学习工具。支持离线词典、离线生词本与已缓存语音。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "portrait",
+  "background_color": "#0b1220",
+  "theme_color": "#0f766e",
+  "categories": ["education", "productivity", "reference"],
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "./assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "./assets/icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ],
+  "shortcuts": [
+    {
+      "name": "添加新词",
+      "short_name": "添加",
+      "url": "./index.html#/add",
+      "icons": [{ "src": "./assets/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "开始学习",
+      "short_name": "学习",
+      "url": "./index.html#/study",
+      "icons": [{ "src": "./assets/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "我的生词本",
+      "short_name": "生词本",
+      "url": "./index.html#/notebook",
+      "icons": [{ "src": "./assets/icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

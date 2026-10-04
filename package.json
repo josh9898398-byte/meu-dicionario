@@ -1,0 +1,20 @@
+{
+  "name": "meu-dicionario-ptbr",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Meu Dicionario PT-BR - personal Brazilian Portuguese dictionary, vocabulary notebook, offline PWA and AI study tool.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "icons": "node scripts/make-icons.mjs",
+    "packs": "node scripts/fetch-frequency-pack.mjs",
+    "test": "node tests/run.mjs",
+    "check": "node scripts/check.mjs",
+    "verify": "node scripts/check.mjs && node tests/run.mjs"
+  }
+}
