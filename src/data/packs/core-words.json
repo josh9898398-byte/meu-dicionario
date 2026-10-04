@@ -1,0 +1,1176 @@
+{
+  "id": "core-words",
+  "name": "核心词汇（示例数据）",
+  "version": 1,
+  "license": "CC0-1.0",
+  "source": "作者原创示例数据（非商业词典复制）",
+  "entries": [
+    {
+      "headword": "aproveitar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["利用", "享受", "抓住机会"],
+      "meanings": [
+        { "definition": "好好利用时间、机会", "note": "经常接 aproveitar para fazer algo" },
+        { "definition": "享受（当下、假期）", "note": "语气轻松自然" }
+      ],
+      "patterns": ["aproveitar algo", "aproveitar para fazer algo", "aproveitar que + 句子"],
+      "collocations": ["aproveitar a oportunidade", "aproveitar o tempo", "aproveitar bem"],
+      "examples": [
+        { "sourceText": "Vou aproveitar que estou de folga para estudar português.", "translation": "我趁今天休息学葡萄牙语。", "note": "aproveitar que + 陈述句，巴西日常高频" },
+        { "sourceText": "Aproveita a promoção, está barato!", "translation": "趁促销买吧，很便宜！", "note": "口语中常直接省略主语" }
+      ],
+      "relatedExpressions": ["aproveitar a oportunidade", "aproveitar o momento", "não perder a chance"],
+      "usageNotes": ["比 usar 更强调“不浪费机会”。"],
+      "difficulty": "A2",
+      "tags": ["日常", "工作"]
+    },
+    {
+      "headword": "saudade",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["想念", "思念（的滋味）"],
+      "meanings": [
+        { "definition": "对人或地方持续的思念", "note": "葡语特有情感词，中文无完全对等" }
+      ],
+      "patterns": ["sentir saudade de algo/alguém", "estar com saudade de", "que saudade!"],
+      "collocations": ["sentir saudades", "matar a saudade", "saudade da família"],
+      "examples": [
+        { "sourceText": "Estou com muitas saudades da minha família.", "translation": "我很想念我的家人。", "note": "巴西更常用复数 saudades" },
+        { "sourceText": "Que saudade desse lugar!", "translation": "好想念这个地方啊！", "note": "Que + 名词 表示感叹" }
+      ],
+      "relatedExpressions": ["matar a saudade", "sentir falta"],
+      "usageNotes": ["表达思念的固定搭配是 sentir saudade(s) de。", "matar a saudade = 见到想念的人/物以缓解思念"],
+      "difficulty": "A2",
+      "tags": ["情感", "日常"]
+    },
+    {
+      "headword": "trabalho",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["工作", "工作内容", "工作任务"],
+      "meanings": [
+        { "definition": "工作、职业", "note": "阳性名词" },
+        { "definition": "某项具体工作/作业", "note": "如 trabalho da faculdade" }
+      ],
+      "patterns": ["dar conta do trabalho", "estar no trabalho", "trabalho de casa"],
+      "collocations": ["trabalho remoto", "reunião de trabalho", "trabalho em equipe"],
+      "examples": [
+        { "sourceText": "Hoje eu tenho muito trabalho para fazer.", "translation": "我今天有很多工作要做。", "note": "" },
+        { "sourceText": "Meu trabalho agora é remoto, faço tudo de casa.", "translation": "我现在的工作是远程的，都在家做。", "note": "远程办公在巴西常说 trabalho remoto / home office" }
+      ],
+      "relatedExpressions": ["home office", "jornada de trabalho"],
+      "usageNotes": ["巴西口语里 home office 直接当名词用：estou de home office。"],
+      "difficulty": "A1",
+      "tags": ["工作", "日常"]
+    },
+    {
+      "headword": "tempo",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["时间", "天气"],
+      "meanings": [
+        { "definition": "时间", "note": "不可数" },
+        { "definition": "天气", "note": "看语境区分" }
+      ],
+      "patterns": ["ter tempo para", "perder tempo", "o tempo todo"],
+      "collocations": ["tempo livre", "falta de tempo", "tempo bom"],
+      "examples": [
+        { "sourceText": "Você tem tempo para tomar um café comigo?", "translation": "你有时间跟我喝杯咖啡吗？", "note": "邀请常用搭配" },
+        { "sourceText": "O tempo mudou, vai chover hoje.", "translation": "天气变了，今天要下雨。", "note": "这里 tempo = 天气" }
+      ],
+      "relatedExpressions": ["o tempo todo", "na hora certa"],
+      "usageNotes": ["o tempo todo = 一直、始终，不要理解为“所有时间”。"],
+      "difficulty": "A1",
+      "tags": ["日常"]
+    },
+    {
+      "headword": "jeito",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["办法", "方式", "做派"],
+      "meanings": [
+        { "definition": "方法、办法", "note": "dar um jeito = 想办法搞定" },
+        { "definition": "人的方式、风格", "note": "jeito de falar" }
+      ],
+      "patterns": ["dar um jeito", "não ter jeito", "do jeito que"],
+      "collocations": ["dar um jeito", "jeito certo", "jeito brasileiro"],
+      "examples": [
+        { "sourceText": "Não se preocupa, eu dou um jeito nisso.", "translation": "别担心，我来搞定这件事。", "note": "巴西口语安抚别人的经典表达" },
+        { "sourceText": "Do jeito que as coisas estão, é melhor esperar.", "translation": "就现在这情况来看，最好还是等等。", "note": "do jeito que = 以……的样子/情况" }
+      ],
+      "relatedExpressions": ["dar um jeito", "se virar", "resolver"],
+      "usageNotes": ["jeito 的日常使用频率极高，掌握 dar um jeito 很有用。"],
+      "difficulty": "A2",
+      "tags": ["口语", "日常"]
+    },
+    {
+      "headword": "gente",
+      "type": "word",
+      "partOfSpeech": "substantivo / pronome",
+      "translations": ["人们", "我们（口语）"],
+      "meanings": [
+        { "definition": "人们", "note": "a gente = 我们（口语，动词用第三人称单数）" },
+        { "definition": "人（群体）", "note": "muita gente = 很多人" }
+      ],
+      "patterns": ["a gente vai", "muita gente", "gente boa"],
+      "collocations": ["a gente", "muita gente", "gente boa"],
+      "examples": [
+        { "sourceText": "A gente vai sair depois do trabalho.", "translation": "我们下班后要出去。", "note": "a gente + 第三人称单数动词，比 nós 更口语" },
+        { "sourceText": "Ele é gente boa, você vai gostar dele.", "translation": "他是个很好的人，你会喜欢他的。", "note": "gente boa = 人很好、好相处" }
+      ],
+      "relatedExpressions": ["a gente", "gente boa", "pessoal"],
+      "usageNotes": ["a gente 后面永远用第三人称单数：a gente vai / a gente foi。"],
+      "difficulty": "A1",
+      "tags": ["口语", "语法"]
+    },
+    {
+      "headword": "cara",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["脸", "家伙（口语）"],
+      "meanings": [
+        { "definition": "脸", "note": "本义" },
+        { "definition": "家伙、哥们（口语称呼）", "note": "巴西口语极常用" }
+      ],
+      "patterns": ["cara, ...", "esse cara", "que cara legal"],
+      "collocations": ["cara legal", "cara de sono", "meu cara"],
+      "examples": [
+        { "sourceText": "Cara, você não vai acreditar no que aconteceu.", "translation": "哥们，你不会相信发生了什么。", "note": "句首的 cara 相当于中文的“哎、哥们”" },
+        { "sourceText": "Ele está com cara de cansado hoje.", "translation": "他今天看起来一脸疲惫。", "note": "cara de + 状态" }
+      ],
+      "relatedExpressions": ["mano", "cara legal", "que cara!"],
+      "usageNotes": ["正式场合不要用 cara 称呼对方，对老板、客户不合适。"],
+      "difficulty": "A2",
+      "tags": ["口语", "俚语"]
+    },
+    {
+      "headword": "negócio",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["生意", "事情（口语）", "东西"],
+      "meanings": [
+        { "definition": "生意、商机", "note": "商务语境" },
+        { "definition": "事情、那玩意儿（口语）", "note": "口语里几乎可以指任何事物" }
+      ],
+      "patterns": ["é o seguinte negócio", "negócio é", "fechar um negócio"],
+      "collocations": ["fechar negócio", "negócio da China", "assunto"],
+      "examples": [
+        { "sourceText": "O negócio é o seguinte: precisamos entregar até sexta.", "translation": "情况是这样的：我们得在周五前交付。", "note": "o negócio é o seguinte 用来引出重点" },
+        { "sourceText": "A gente fechou um negócio muito bom.", "translation": "我们谈成了一笔很好的生意。", "note": "" }
+      ],
+      "relatedExpressions": ["o negócio é", "fechar negócio"],
+      "usageNotes": ["口语里 negócio 常替代 coisa，含义极其宽泛。"],
+      "difficulty": "A2",
+      "tags": ["口语", "工作"]
+    },
+    {
+      "headword": "assunto",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["话题", "事情", "事务"],
+      "meanings": [{ "definition": "话题、议题", "note": "阳性名词" }],
+      "patterns": ["mudar de assunto", "sobre o assunto", "assunto sério"],
+      "collocations": ["mudar de assunto", "assunto pessoal", "tratar do assunto"],
+      "examples": [
+        { "sourceText": "Vamos mudar de assunto, por favor.", "translation": "我们换个话题吧。", "note": "mudar de assunto 是固定搭配" },
+        { "sourceText": "Preciso falar com você sobre um assunto urgente.", "translation": "我需要跟你谈一件紧急的事。", "note": "" }
+      ],
+      "relatedExpressions": ["mudar de assunto", "questão"],
+      "usageNotes": ["mudar de assunto 中间必须用 de。"],
+      "difficulty": "A2",
+      "tags": ["日常", "工作"]
+    },
+    {
+      "headword": "dúvida",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["疑问", "不确定"],
+      "meanings": [{ "definition": "疑问、困惑", "note": "阴性名词：a dúvida" }],
+      "patterns": ["tirar dúvidas", "ficar com dúvida", "sem dúvida"],
+      "collocations": ["tirar dúvida", "sem dúvida", "dúvida cruel"],
+      "examples": [
+        { "sourceText": "Pode perguntar, eu tiro suas dúvidas.", "translation": "你可以问，我帮你解答疑问。", "note": "tirar dúvidas = 解答疑问，非常常用" },
+        { "sourceText": "Fiquei com uma dúvida sobre o prazo.", "translation": "关于截止时间我有个疑问。", "note": "" }
+      ],
+      "relatedExpressions": ["tirar dúvidas", "sem dúvida", "pergunta"],
+      "usageNotes": ["tirar dúvidas 不是“拿走疑问”，而是“答疑”。"],
+      "difficulty": "A2",
+      "tags": ["工作", "学习"]
+    },
+    {
+      "headword": "prazo",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["截止时间", "期限"],
+      "meanings": [{ "definition": "完成某事的期限", "note": "工作场景高频" }],
+      "patterns": ["dentro do prazo", "prazo de entrega", "no prazo"],
+      "collocations": ["prazo de entrega", "prazo apertado", "dentro do prazo"],
+      "examples": [
+        { "sourceText": "O prazo é até sexta-feira, dá tempo?", "translation": "截止时间是周五，来得及吗？", "note": "" },
+        { "sourceText": "Conseguimos entregar dentro do prazo.", "translation": "我们按时交付了。", "note": "dentro do prazo = 在期限内" }
+      ],
+      "relatedExpressions": ["deadline", "dentro do prazo"],
+      "usageNotes": ["巴西职场直接用英语词 deadline 也很常见。"],
+      "difficulty": "B1",
+      "tags": ["工作"]
+    },
+    {
+      "headword": "reunião",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["会议"],
+      "meanings": [{ "definition": "会议、碰头", "note": "阴性名词：a reunião" }],
+      "patterns": ["marcar uma reunião", "participar da reunião", "reunião de equipe"],
+      "collocations": ["marcar reunião", "reunião online", "pauta da reunião"],
+      "examples": [
+        { "sourceText": "Vamos marcar uma reunião para amanhã de manhã.", "translation": "我们约明天上午开个会吧。", "note": "marcar = 约、安排" },
+        { "sourceText": "A reunião foi cancelada de última hora.", "translation": "会议临时取消了。", "note": "de última hora = 临时、最后一刻" }
+      ],
+      "relatedExpressions": ["marcar reunião", "call"],
+      "usageNotes": ["巴西口语也把线上会议叫 call。"],
+      "difficulty": "B1",
+      "tags": ["工作"]
+    },
+    {
+      "headword": "problema",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["问题", "麻烦"],
+      "meanings": [{ "definition": "问题、故障、麻烦", "note": "阳性名词" }],
+      "patterns": ["não tem problema", "resolver um problema", "dar problema"],
+      "collocations": ["sem problema", "resolver problema", "problema técnico"],
+      "examples": [
+        { "sourceText": "Não tem problema, pode chegar mais tarde.", "translation": "没关系，你可以晚点到。", "note": "回答道歉或请求时超常用" },
+        { "sourceText": "Deu problema no sistema e travou tudo.", "translation": "系统出问题了，全卡住了。", "note": "dar problema = 出问题" }
+      ],
+      "relatedExpressions": ["sem problema", "dar problema"],
+      "usageNotes": ["“没问题”说 sem problema 或 não tem problema。"],
+      "difficulty": "A1",
+      "tags": ["日常", "工作"]
+    },
+    {
+      "headword": "café",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["咖啡", "早餐（部分地区）"],
+      "meanings": [
+        { "definition": "咖啡", "note": "阳性：o café" },
+        { "definition": "早餐", "note": "café da manhã 更明确" }
+      ],
+      "patterns": ["tomar um café", "café da manhã", "passar um café"],
+      "collocations": ["café da manhã", "café coado", "cafezinho"],
+      "examples": [
+        { "sourceText": "Vamos tomar um café depois do almoço?", "translation": "我们午饭后去喝杯咖啡吧？", "note": "tomar café 也常指“喝咖啡聊天”" },
+        { "sourceText": "O café da manhã está pronto.", "translation": "早餐准备好了。", "note": "巴西的早餐叫 café da manhã" }
+      ],
+      "relatedExpressions": ["cafezinho", "café da tarde"],
+      "usageNotes": ["同事说 vamos tomar um café 常常就是约你出去聊两句。"],
+      "difficulty": "A1",
+      "tags": ["日常", "饮食"]
+    },
+    {
+      "headword": "feira",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["集市", "展会"],
+      "meanings": [
+        { "definition": "露天菜市场", "note": "feira livre" },
+        { "definition": "展会、博览会", "note": "feira de negócios" }
+      ],
+      "patterns": ["ir à feira", "feira livre", "feira de negócios"],
+      "collocations": ["feira livre", "feira de tecnologia"],
+      "examples": [
+        { "sourceText": "Vou à feira no sábado comprar frutas.", "translation": "我周六去集市买水果。", "note": "ir à feira 用缩合 à" },
+        { "sourceText": "Ele vai apresentar o produto na feira.", "translation": "他要在展会上介绍产品。", "note": "" }
+      ],
+      "relatedExpressions": ["mercado", "feirante"],
+      "usageNotes": ["feirante = 集市摊主。"],
+      "difficulty": "A2",
+      "tags": ["日常"]
+    },
+    {
+      "headword": "ônibus",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["公交车"],
+      "meanings": [{ "definition": "公共汽车", "note": "巴西常用 ônibus（葡萄牙用 autocarro）" }],
+      "patterns": ["pegar o ônibus", "perder o ônibus", "ônibus lotado"],
+      "collocations": ["pegar ônibus", "ponto de ônibus", "ônibus lotado"],
+      "examples": [
+        { "sourceText": "Peguei o ônibus e cheguei em vinte minutos.", "translation": "我坐公交，20 分钟就到了。", "note": "pegar = 乘坐" },
+        { "sourceText": "O ônibus estava lotado hoje.", "translation": "今天公交车挤满了人。", "note": "lotado = 挤满的" }
+      ],
+      "relatedExpressions": ["metrô", "ponto de ônibus", "carona"],
+      "usageNotes": ["千万别用 autocarro（欧洲葡语），巴西人会觉得奇怪。"],
+      "difficulty": "A2",
+      "tags": ["交通", "日常"]
+    },
+    {
+      "headword": "celular",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["手机"],
+      "meanings": [{ "definition": "移动电话", "note": "巴西用 celular（葡萄牙用 telemóvel）" }],
+      "patterns": ["carregar o celular", "celular descarregou", "no celular"],
+      "collocations": ["celular carregado", "crédito no celular"],
+      "examples": [
+        { "sourceText": "Meu celular descarregou, não consegui te ligar.", "translation": "我手机没电了，没能给你打电话。", "note": "descarregar = 没电" },
+        { "sourceText": "Manda a mensagem no celular da empresa.", "translation": "发到公司手机上就行。", "note": "" }
+      ],
+      "relatedExpressions": ["celular", "chip", "conexão"],
+      "usageNotes": ["巴西：celular；葡萄牙：telemóvel。用错会被听出来。"],
+      "difficulty": "A1",
+      "tags": ["日常", "科技"]
+    },
+    {
+      "headword": "dinheiro",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["钱"],
+      "meanings": [{ "definition": "钱、资金", "note": "阳性名词" }],
+      "patterns": ["gastar dinheiro", "ganhar dinheiro", "estar sem dinheiro"],
+      "collocations": ["dinheiro vivo", "ganhar dinheiro", "falta de dinheiro"],
+      "examples": [
+        { "sourceText": "Não tenho dinheiro vivo, aceita Pix?", "translation": "我没带现金，能用 Pix 吗？", "note": "Pix 是巴西即时转账，日常必会" },
+        { "sourceText": "Ele ganha bem, mas gasta muito dinheiro.", "translation": "他收入不错，但花钱很多。", "note": "" }
+      ],
+      "relatedExpressions": ["Pix", "grana", "troco"],
+      "usageNotes": ["dinheiro vivo = 现金；口语里 grana = 钱。"],
+      "difficulty": "A1",
+      "tags": ["日常", "金钱"]
+    },
+    {
+      "headword": "chegar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["到达", "来", "足够"],
+      "meanings": [
+        { "definition": "到达", "note": "chegar em casa" },
+        { "definition": "够了（口语）", "note": "chega! 表示够了、停" }
+      ],
+      "patterns": ["chegar a", "chegar em", "chega de"],
+      "collocations": ["chegar cedo", "chegar atrasado", "chega disso"],
+      "examples": [
+        { "sourceText": "Cheguei em casa agora, estava tudo tranquilo.", "translation": "我刚到家，一切都很平静。", "note": "巴西说 chegar em casa" },
+        { "sourceText": "Chega de desculpas, vamos resolver isso.", "translation": "别找借口了，我们把这事解决掉。", "note": "chega de + 名词/动词 = 别再……了" }
+      ],
+      "relatedExpressions": ["chegar em", "chega de", "dar as caras"],
+      "usageNotes": ["欧洲葡语用 chegar a casa，巴西常用 chegar em casa。"],
+      "difficulty": "A1",
+      "tags": ["日常", "语法"]
+    },
+    {
+      "headword": "ficar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["停留", "变", "待着", "（口语）短暂交往"],
+      "meanings": [
+        { "definition": "留在某处", "note": "ficar em casa" },
+        { "definition": "变得（+形容词）", "note": "ficar cansado" },
+        { "definition": "约会式短暂交往", "note": "巴西口语：eles ficaram" }
+      ],
+      "patterns": ["ficar com", "ficar em", "ficar + 形容词"],
+      "collocations": ["ficar de boa", "ficar de fora", "ficar em casa"],
+      "examples": [
+        { "sourceText": "Prefiro ficar em casa hoje, estou cansado.", "translation": "我今天更想待在家，有点累。", "note": "" },
+        { "sourceText": "Ele ficou animado com a notícia.", "translation": "他听到消息很兴奋。", "note": "ficar + 形容词 = 变得" }
+      ],
+      "relatedExpressions": ["ficar de boa", "ficar em cima do muro", "ficar sabendo"],
+      "usageNotes": ["ficar 是巴西葡语使用频率最高的动词之一，含义随搭配变化极大。"],
+      "difficulty": "A2",
+      "tags": ["口语", "语法"]
+    },
+    {
+      "headword": "dar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["给", "（大量固定搭配）"],
+      "meanings": [
+        { "definition": "给、给予", "note": "本义" },
+        { "definition": "多功能动词", "note": "dar certo / dar conta / dar um jeito 等" }
+      ],
+      "patterns": ["dar algo a alguém", "dar certo", "dar para fazer"],
+      "collocations": ["dar certo", "dar conta", "dar um jeito", "dar tempo", "dar uma olhada"],
+      "examples": [
+        { "sourceText": "Vou dar uma olhada e te falo depois.", "translation": "我看一下，之后告诉你。", "note": "dar uma olhada = 看一眼、看一下" },
+        { "sourceText": "Não deu tempo de terminar.", "translation": "时间不够，没做完。", "note": "dar tempo = 来得及" }
+      ],
+      "relatedExpressions": ["dar certo", "dar conta", "dar um jeito", "dar dica"],
+      "usageNotes": ["dar 的固定搭配是巴西口语的核心，建议整块背搭配。"],
+      "difficulty": "A2",
+      "tags": ["口语", "语法"]
+    },
+    {
+      "headword": "puxar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["拉", "引出（话题）"],
+      "meanings": [
+        { "definition": "拉、扯", "note": "本义" },
+        { "definition": "开启、引出（话题）", "note": "puxar assunto" }
+      ],
+      "patterns": ["puxar algo", "puxar assunto", "puxar conversa"],
+      "collocations": ["puxar assunto", "puxar conversa", "puxar fila"],
+      "examples": [
+        { "sourceText": "Ele puxou assunto sobre futebol para quebrar o gelo.", "translation": "他聊起足球来打破尴尬。", "note": "quebrar o gelo = 破冰" },
+        { "sourceText": "Não puxa esse assunto agora, é delicado.", "translation": "现在别提这个话题，很敏感。", "note": "" }
+      ],
+      "relatedExpressions": ["puxar assunto", "puxar conversa"],
+      "usageNotes": ["puxar assunto = 主动找话题，社交场合必备。"],
+      "difficulty": "B1",
+      "tags": ["口语", "社交"]
+    },
+    {
+      "headword": "rolar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["滚动", "发生（口语）", "可以、行（口语）"],
+      "meanings": [
+        { "definition": "滚动", "note": "本义" },
+        { "definition": "发生（口语）", "note": "o que rolou? = 发生什么了？" },
+        { "definition": "表示同意安排", "note": "rola! = 行！" }
+      ],
+      "patterns": ["rolar", "o que rolou", "vai rolar"],
+      "collocations": ["rolou um clima", "vai rolar", "rola sim"],
+      "examples": [
+        { "sourceText": "O que rolou na reunião?", "translation": "会上发生什么了？", "note": "巴西口语高频" },
+        { "sourceText": "— Sexta às oito? — Rola!", "translation": "——周五八点？——行啊！", "note": "回答提议时非常自然" }
+      ],
+      "relatedExpressions": ["acontecer", "dar certo", "fechar"],
+      "usageNotes": ["rolar 用来替代 acontecer 时更口语、更自然。"],
+      "difficulty": "B1",
+      "tags": ["口语", "俚语"]
+    },
+    {
+      "headword": "pegar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["拿", "乘坐", "接（人）", "下载"],
+      "meanings": [
+        { "definition": "拿、取", "note": "本义" },
+        { "definition": "乘坐（交通工具）", "note": "pegar o metrô" },
+        { "definition": "接人", "note": "pegar alguém no aeroporto" }
+      ],
+      "patterns": ["pegar algo", "pegar o ônibus", "pegar alguém"],
+      "collocations": ["pegar carona", "pegar fila", "pegar pesado"],
+      "examples": [
+        { "sourceText": "Vou te pegar no aeroporto às dez.", "translation": "我十点去机场接你。", "note": "接人用 pegar，不用 receber" },
+        { "sourceText": "Peguei carona com um colega.", "translation": "我搭了同事的顺风车。", "note": "pegar carona = 搭车" }
+      ],
+      "relatedExpressions": ["pegar carona", "pegar fila", "levar"],
+      "usageNotes": ["pegar fila = 排队，巴西很常用。"],
+      "difficulty": "A2",
+      "tags": ["日常", "交通"]
+    },
+    {
+      "headword": "levar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["带走", "花费（时间）", "被（口语）"],
+      "meanings": [
+        { "definition": "带走、拿去", "note": "本义" },
+        { "definition": "花费时间", "note": "levar duas horas" }
+      ],
+      "patterns": ["levar algo", "levar tempo", "levar alguém a"],
+      "collocations": ["levar a sério", "levar tempo", "levar na brincadeira"],
+      "examples": [
+        { "sourceText": "Levo quarenta minutos para chegar ao trabalho.", "translation": "我上班要花 40 分钟。", "note": "levar + 时间 + para" },
+        { "sourceText": "Não leva a mal, foi brincadeira.", "translation": "别往心里去，我开玩笑的。", "note": "levar a mal = 生气、介意" }
+      ],
+      "relatedExpressions": ["levar a sério", "levar a mal", "demorar"],
+      "usageNotes": ["levar a sério = 当真、认真对待。"],
+      "difficulty": "A2",
+      "tags": ["日常", "语法"]
+    },
+    {
+      "headword": "deixar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["留下", "让", "放下"],
+      "meanings": [
+        { "definition": "留下、把……放着", "note": "本义" },
+        { "definition": "让（某人做某事）", "note": "deixar alguém fazer" }
+      ],
+      "patterns": ["deixar algo em", "deixar alguém fazer", "deixar claro"],
+      "collocations": ["deixar claro", "deixar recado", "deixar para depois"],
+      "examples": [
+        { "sourceText": "Deixa eu te explicar uma coisa.", "translation": "让我给你解释一下。", "note": "deixa eu = 让我，口语极常用" },
+        { "sourceText": "Vou deixar isso para amanhã.", "translation": "这个我留到明天做。", "note": "" }
+      ],
+      "relatedExpressions": ["deixa eu", "deixar claro", "deixar para depois"],
+      "usageNotes": ["deixa eu ver 是“让我看看”，比 deixe-me 自然得多。"],
+      "difficulty": "A2",
+      "tags": ["口语", "语法"]
+    },
+    {
+      "headword": "virar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["变成", "翻转", "熬夜（口语）"],
+      "meanings": [
+        { "definition": "变成", "note": "virar + 名词" },
+        { "definition": "熬夜", "note": "virar a noite" }
+      ],
+      "patterns": ["virar algo", "virar a noite", "virar moda"],
+      "collocations": ["virar a noite", "virar piada", "virar rotina"],
+      "examples": [
+        { "sourceText": "A gente virou a noite trabalhando.", "translation": "我们熬了一整夜工作。", "note": "virar a noite = 通宵" },
+        { "sourceText": "Isso virou rotina na empresa.", "translation": "这成了公司的常态。", "note": "" }
+      ],
+      "relatedExpressions": ["virar a noite", "tornar-se"],
+      "usageNotes": ["virar 在口语中大量替代 tornar-se。"],
+      "difficulty": "B1",
+      "tags": ["口语", "工作"]
+    },
+    {
+      "headword": "resolver",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["解决", "决定"],
+      "meanings": [{ "definition": "解决问题", "note": "resolver algo" }],
+      "patterns": ["resolver algo", "resolver fazer algo", "estar resolvido"],
+      "collocations": ["resolver problema", "resolver na hora", "já resolvi"],
+      "examples": [
+        { "sourceText": "Já resolvi, pode ficar tranquilo.", "translation": "已经解决了，你放心。", "note": "já resolvi 用于安抚对方" },
+        { "sourceText": "Vamos resolver isso juntos.", "translation": "我们一起把这件事解决掉。", "note": "" }
+      ],
+      "relatedExpressions": ["dar um jeito", "solucionar"],
+      "usageNotes": ["口语里 dar um jeito 和 resolver 都很常用，语气略有差别。"],
+      "difficulty": "B1",
+      "tags": ["工作", "日常"]
+    },
+    {
+      "headword": "combinar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["约定", "搭配", "合适"],
+      "meanings": [
+        { "definition": "约定、说好", "note": "combinar algo com alguém" },
+        { "definition": "搭配协调", "note": "essa camisa combina com a calça" }
+      ],
+      "patterns": ["combinar de fazer", "combinar com", "combinado"],
+      "collocations": ["combinado", "combinar horário", "combinar tudo"],
+      "examples": [
+        { "sourceText": "Combinamos de nos encontrar às sete.", "translation": "我们约好七点见面。", "note": "combinar de + 动词" },
+        { "sourceText": "— Amanhã às nove? — Combinado!", "translation": "——明天九点？——说定了！", "note": "combinado 是巴西最常用的“搞定/说定了”" }
+      ],
+      "relatedExpressions": ["combinado", "fechado", "marcar"],
+      "usageNotes": ["combinado 和 fechado 都可以回答“成交、就这么定”。"],
+      "difficulty": "B1",
+      "tags": ["口语", "社交"]
+    },
+    {
+      "headword": "marcar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["预约", "标记", "约"],
+      "meanings": [
+        { "definition": "约定、预约", "note": "marcar uma reunião" },
+        { "definition": "标记", "note": "本义之一" }
+      ],
+      "patterns": ["marcar algo", "marcar com alguém", "marcar para sexta"],
+      "collocations": ["marcar reunião", "marcar consulta", "marcar em cima da hora"],
+      "examples": [
+        { "sourceText": "Preciso marcar uma consulta com o dentista.", "translation": "我得预约牙医。", "note": "marcar consulta = 预约就诊" },
+        { "sourceText": "Marcamos para sexta às dez, pode ser?", "translation": "我们约周五十点，可以吗？", "note": "" }
+      ],
+      "relatedExpressions": ["agendar", "combinar"],
+      "usageNotes": ["agendar 更正式，marcar 更日常。"],
+      "difficulty": "A2",
+      "tags": ["日常", "工作"]
+    },
+    {
+      "headword": "tomar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["喝", "拿（决定）", "洗（澡）"],
+      "meanings": [
+        { "definition": "喝、吃（饮品/汤）", "note": "tomar café" },
+        { "definition": "做出（决定）", "note": "tomar uma decisão" }
+      ],
+      "patterns": ["tomar café", "tomar banho", "tomar cuidado"],
+      "collocations": ["tomar banho", "tomar cuidado", "tomar uma decisão", "tomar um susto"],
+      "examples": [
+        { "sourceText": "Vou tomar um banho e já saio.", "translation": "我洗个澡就出门。", "note": "洗澡用 tomar banho，不用 lavar" },
+        { "sourceText": "Toma cuidado na estrada.", "translation": "路上小心。", "note": "告别时的常用关心语" }
+      ],
+      "relatedExpressions": ["tomar banho", "tomar cuidado", "tomar um susto"],
+      "usageNotes": ["tomar um susto = 被吓一跳。"],
+      "difficulty": "A1",
+      "tags": ["日常", "语法"]
+    },
+    {
+      "headword": "gostar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["喜欢"],
+      "meanings": [{ "definition": "喜欢", "note": "必须搭配 de：gostar de" }],
+      "patterns": ["gostar de algo", "gostar de fazer", "gostar muito de"],
+      "collocations": ["gostar muito", "gostar de música"],
+      "examples": [
+        { "sourceText": "Eu gosto muito de comida brasileira.", "translation": "我很喜欢巴西菜。", "note": "别忘了 de" },
+        { "sourceText": "Você gosta de morar aqui?", "translation": "你喜欢住在这里吗？", "note": "" }
+      ],
+      "relatedExpressions": ["adorar", "curtir", "amar"],
+      "usageNotes": ["口语里 curtir 也可以表示“喜欢、玩得开心”。"],
+      "difficulty": "A1",
+      "tags": ["日常", "语法"]
+    },
+    {
+      "headword": "precisar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["需要"],
+      "meanings": [{ "definition": "需要（做某事）", "note": "precisar de / precisar + 动词" }],
+      "patterns": ["precisar de algo", "precisar fazer algo"],
+      "collocations": ["precisar de ajuda", "precisar de tempo"],
+      "examples": [
+        { "sourceText": "Preciso de ajuda com esse relatório.", "translation": "这份报告我需要帮忙。", "note": "名词前必须用 de" },
+        { "sourceText": "Preciso sair mais cedo hoje.", "translation": "我今天需要早点走。", "note": "接动词时不用 de" }
+      ],
+      "relatedExpressions": ["necessitar", "ter que"],
+      "usageNotes": ["巴西口语里 ter que 表达“必须”更常用。"],
+      "difficulty": "A1",
+      "tags": ["日常", "语法"]
+    },
+    {
+      "headword": "conseguir",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["能够", "成功做到"],
+      "meanings": [{ "definition": "设法做到", "note": "conseguir + 动词" }],
+      "patterns": ["conseguir fazer", "não conseguir", "conseguir algo"],
+      "collocations": ["conseguir tempo", "conseguir resolver"],
+      "examples": [
+        { "sourceText": "Não consegui terminar a tempo.", "translation": "我没能按时做完。", "note": "" },
+        { "sourceText": "Você consegue me ligar mais tarde?", "translation": "你能晚点给我打电话吗？", "note": "" }
+      ],
+      "relatedExpressions": ["poder", "dar conta"],
+      "usageNotes": ["强调“努力后做到”时用 conseguir，许可用 poder。"],
+      "difficulty": "A2",
+      "tags": ["日常", "语法"]
+    },
+    {
+      "headword": "entender",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["听懂", "理解"],
+      "meanings": [{ "definition": "理解、明白", "note": "口语中说 entendi 表示“我懂了”" }],
+      "patterns": ["entender algo", "entender de algo", "não entendi"],
+      "collocations": ["entendi", "entender bem", "entender errado"],
+      "examples": [
+        { "sourceText": "Desculpa, não entendi. Pode repetir?", "translation": "抱歉，我没听懂，能再说一遍吗？", "note": "与巴西同事沟通的救命句" },
+        { "sourceText": "Ele entende muito de tecnologia.", "translation": "他对技术很在行。", "note": "entender de = 在行" }
+      ],
+      "relatedExpressions": ["entendi", "fazer sentido", "captar"],
+      "usageNotes": ["entender de algo = 懂行，不代表“听清”"],
+      "difficulty": "A1",
+      "tags": ["学习", "沟通"]
+    },
+    {
+      "headword": "explicar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["解释", "说明"],
+      "meanings": [{ "definition": "解释、讲解", "note": "explicar algo para alguém" }],
+      "patterns": ["explicar algo", "explicar para alguém", "deixa eu explicar"],
+      "collocations": ["explicar melhor", "explicar detalhe"],
+      "examples": [
+        { "sourceText": "Pode explicar de novo, mais devagar?", "translation": "能再解释一遍吗？慢一点。", "note": "请别人放慢解释的实用句" },
+        { "sourceText": "Vou te explicar como funciona.", "translation": "我给你讲讲它是怎么运作的。", "note": "" }
+      ],
+      "relatedExpressions": ["explicar melhor", "esclarecer"],
+      "usageNotes": ["explicar 后面不加 para 也可以，但加 para 更清楚。"],
+      "difficulty": "A2",
+      "tags": ["工作", "学习"]
+    },
+    {
+      "headword": "atrapalhar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["妨碍", "打乱", "帮倒忙"],
+      "meanings": [{ "definition": "打扰、妨碍", "note": "很常用的口语动词" }],
+      "patterns": ["atrapalhar alguém", "atrapalhar o trabalho", "atrapalhar tudo"],
+      "collocations": ["atrapalhar o foco", "atrapalhar o plano"],
+      "examples": [
+        { "sourceText": "Desculpa, eu atrapalhei você?", "translation": "抱歉，我打扰到你了吗？", "note": "进办公室先问这句很礼貌" },
+        { "sourceText": "A chuva atrapalhou nossos planos.", "translation": "下雨打乱了我们的计划。", "note": "" }
+      ],
+      "relatedExpressions": ["incomodar", "perturbar"],
+      "usageNotes": ["atrapalhar 后可以不带宾语，直接说 foi mal, atrapalhei。"],
+      "difficulty": "B1",
+      "tags": ["口语", "工作"]
+    },
+    {
+      "headword": "reclamar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["抱怨", "投诉"],
+      "meanings": [
+        { "definition": "抱怨", "note": "reclamar de algo" },
+        { "definition": "投诉", "note": "正式场合" }
+      ],
+      "patterns": ["reclamar de algo", "reclamar com alguém"],
+      "collocations": ["reclamar do trabalho", "reclamar bastante"],
+      "examples": [
+        { "sourceText": "Ele reclama do trânsito todos os dias.", "translation": "他每天都抱怨堵车。", "note": "reclamar de 必须带 de" },
+        { "sourceText": "O cliente reclamou do atraso.", "translation": "客户投诉了延迟。", "note": "" }
+      ],
+      "relatedExpressions": ["resmungar", "queixar-se"],
+      "usageNotes": ["巴西人日常抱怨频繁，reclamar 是高频动词。"],
+      "difficulty": "B1",
+      "tags": ["口语", "工作"]
+    },
+    {
+      "headword": "elogiar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["称赞", "表扬"],
+      "meanings": [{ "definition": "表扬、夸奖", "note": "工作与社交都常用" }],
+      "patterns": ["elogiar alguém", "elogiar o trabalho"],
+      "collocations": ["elogiar o trabalho", "elogiar bastante"],
+      "examples": [
+        { "sourceText": "O chefe elogiou nosso projeto.", "translation": "老板表扬了我们的项目。", "note": "" },
+        { "sourceText": "Ela elogiou meu português, fiquei feliz.", "translation": "她夸了我的葡萄牙语，我很开心。", "note": "" }
+      ],
+      "relatedExpressions": ["parabenizar", "elogio"],
+      "usageNotes": ["elogio 是名词：recebi um elogio。"],
+      "difficulty": "B1",
+      "tags": ["工作", "社交"]
+    },
+    {
+      "headword": "morar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["居住"],
+      "meanings": [{ "definition": "长住", "note": "与 viver 区别：morar 强调住在哪里" }],
+      "patterns": ["morar em", "morar com alguém", "morar perto de"],
+      "collocations": ["morar junto", "morar em apartamento", "morar sozinho"],
+      "examples": [
+        { "sourceText": "Moro em São Paulo há três anos.", "translation": "我在圣保罗住了三年。", "note": "há + 时间段" },
+        { "sourceText": "A gente vai morar junto no ano que vem.", "translation": "我们明年要同居。", "note": "morar junto = 同居" }
+      ],
+      "relatedExpressions": ["viver", "morar junto"],
+      "usageNotes": ["morar em + 城市；morar na + 街区（Rua/avenida 用 na）。"],
+      "difficulty": "A1",
+      "tags": ["日常"]
+    },
+    {
+      "headword": "trocar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["交换", "更换", "聊天（口语）"],
+      "meanings": [
+        { "definition": "交换、更换", "note": "本义" },
+        { "definition": "聊天", "note": "口语 trocar ideia" }
+      ],
+      "patterns": ["trocar algo", "trocar ideia", "trocar por"],
+      "collocations": ["trocar ideia", "trocar mensagem", "trocar de emprego"],
+      "examples": [
+        { "sourceText": "Vamos trocar uma ideia sobre isso amanhã.", "translation": "明天我们聊聊这件事。", "note": "巴西口语 trocar ideia = 交流、聊聊" },
+        { "sourceText": "Preciso trocar de celular.", "translation": "我得换个手机。", "note": "trocar de + 名词 = 更换" }
+      ],
+      "relatedExpressions": ["trocar ideia", "conversar"],
+      "usageNotes": ["trocar ideia 在年轻人中极其常用。"],
+      "difficulty": "B1",
+      "tags": ["口语", "社交"]
+    },
+    {
+      "headword": "adorar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["非常喜欢", "喜爱"],
+      "meanings": [{ "definition": "很喜欢（比 gostar 更强）", "note": "adorar algo / adorar fazer" }],
+      "patterns": ["adorar algo", "adorar fazer algo", "adorei!"],
+      "collocations": ["adorei", "adorar viajar"],
+      "examples": [
+        { "sourceText": "Adorei o seu plano, vamos fazer isso.", "translation": "我很喜欢你的方案，我们就这么做吧。", "note": "adorei 是表达认可的常用夸赞" },
+        { "sourceText": "Ela adora cozinhar nos fins de semana.", "translation": "她特别喜欢周末做饭。", "note": "" }
+      ],
+      "relatedExpressions": ["gostar muito", "curtir", "amar"],
+      "usageNotes": ["回应别人的提议说 adorei 非常自然。"],
+      "difficulty": "A2",
+      "tags": ["日常", "社交"]
+    },
+    {
+      "headword": "curtir",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["喜欢", "玩得开心", "点赞（社交网络）"],
+      "meanings": [
+        { "definition": "享受、玩得开心", "note": "口语高频" },
+        { "definition": "点赞", "note": "社交网络用语" }
+      ],
+      "patterns": ["curtir algo", "curtir muito", "curtir a foto"],
+      "collocations": ["curtir a vida", "curtir o momento", "curtir a praia"],
+      "examples": [
+        { "sourceText": "Curti muito o fim de semana na praia.", "translation": "我周末在海边玩得很开心。", "note": "" },
+        { "sourceText": "Curti seu post, ficou ótimo.", "translation": "我给你的帖子点赞了，很棒。", "note": "社交网络含义" }
+      ],
+      "relatedExpressions": ["curtir a vida", "aproveitar", "gostar"],
+      "usageNotes": ["curtir a vida = 享受生活，很巴西的表达。"],
+      "difficulty": "A2",
+      "tags": ["口语", "社交"]
+    },
+    {
+      "headword": "pessoal",
+      "type": "word",
+      "partOfSpeech": "substantivo / adjetivo",
+      "translations": ["大家、各位（口语）", "私人的"],
+      "meanings": [
+        { "definition": "大家、各位", "note": "口语称呼一群人：oi, pessoal!" },
+        { "definition": "个人的、私人的", "note": "assunto pessoal" }
+      ],
+      "patterns": ["oi, pessoal", "vamos, pessoal", "pessoal do time"],
+      "collocations": ["oi pessoal", "pessoal do escritório"],
+      "examples": [
+        { "sourceText": "Oi, pessoal! Vamos começar a reunião.", "translation": "大家好！我们开始开会吧。", "note": "对一群人讲话的开场白" },
+        { "sourceText": "Isso é pessoal, prefiro não comentar.", "translation": "这是私事，我不想谈。", "note": "" }
+      ],
+      "relatedExpressions": ["galera", "todo mundo", "turma"],
+      "usageNotes": ["galera 和 pessoal 都指“大家”，galera 更年轻化。"],
+      "difficulty": "A2",
+      "tags": ["口语", "社交"]
+    },
+    {
+      "headword": "galera",
+      "type": "word",
+      "partOfSpeech": "substantivo",
+      "translations": ["大家", "一群人", "伙伴们"],
+      "meanings": [{ "definition": "口语称呼群体", "note": "巴西年轻人常用" }],
+      "patterns": ["a galera", "galera, vamos", "minha galera"],
+      "collocations": ["a galera toda", "galera do trabalho"],
+      "examples": [
+        { "sourceText": "A galera toda vai no churrasco sábado.", "translation": "大家周六都去烧烤。", "note": "churrasco 是巴西社交核心场景" },
+        { "sourceText": "E aí, galera, tudo bem?", "translation": "嘿，大家，都好吗？", "note": "视频/直播开场常用" }
+      ],
+      "relatedExpressions": ["pessoal", "turma", "time"],
+      "usageNotes": ["工作正式邮件不要用 galera。"],
+      "difficulty": "A2",
+      "tags": ["口语", "俚语"]
+    },
+    {
+      "headword": "tranquilo",
+      "type": "word",
+      "partOfSpeech": "adjetivo",
+      "translations": ["平静的", "没问题的（口语）"],
+      "meanings": [
+        { "definition": "平静、安静", "note": "lugar tranquilo" },
+        { "definition": "没问题、可以", "note": "口语回答：tranquilo!" }
+      ],
+      "patterns": ["tranquilo", "ficar tranquilo", "tudo tranquilo"],
+      "collocations": ["fica tranquilo", "tudo tranquilo", "bem tranquilo"],
+      "examples": [
+        { "sourceText": "— Desculpa o atraso. — Tranquilo!", "translation": "——抱歉迟到了。——没事！", "note": "最常用的轻松回应之一" },
+        { "sourceText": "Fica tranquilo, eu cuido disso.", "translation": "你放心，我来处理。", "note": "fica tranquilo = 别担心" }
+      ],
+      "relatedExpressions": ["de boa", "sem problema", "relaxa"],
+      "usageNotes": ["tranquilo 作为回答时相当于“没问题”，非常口语。"],
+      "difficulty": "A2",
+      "tags": ["口语", "日常"]
+    },
+    {
+      "headword": "chato",
+      "type": "word",
+      "partOfSpeech": "adjetivo",
+      "translations": ["烦人的", "无聊的", "讨厌的"],
+      "meanings": [{ "definition": "令人不快、烦人", "note": "口语很常用，语气可轻可重" }],
+      "patterns": ["que chato", "ficar chato", "ser chato"],
+      "collocations": ["que chato", "muito chato", "chato de fazer"],
+      "examples": [
+        { "sourceText": "Que chato, o evento foi cancelado.", "translation": "真扫兴，活动取消了。", "note": "que chato = 好烦/真扫兴" },
+        { "sourceText": "Esse exercício é chato, mas ajuda.", "translation": "这个练习很枯燥，但有效。", "note": "" }
+      ],
+      "relatedExpressions": ["que pena", "chateado"],
+      "usageNotes": ["chateado 是“难过、不爽”，与 chato 不同。"],
+      "difficulty": "A2",
+      "tags": ["口语", "情感"]
+    },
+    {
+      "headword": "cansado",
+      "type": "word",
+      "partOfSpeech": "adjetivo",
+      "translations": ["累的", "疲惫的"],
+      "meanings": [{ "definition": "疲累", "note": "estar cansado" }],
+      "patterns": ["estar cansado", "ficar cansado", "cansado de algo"],
+      "collocations": ["muito cansado", "cansado do trabalho"],
+      "examples": [
+        { "sourceText": "Hoje estou muito cansado, vou dormir cedo.", "translation": "今天我很累，要早点睡。", "note": "" },
+        { "sourceText": "Estou cansado de esperar.", "translation": "我等得不耐烦了。", "note": "cansado de = 对……厌倦" }
+      ],
+      "relatedExpressions": ["exausto", "morto de cansado"],
+      "usageNotes": ["morto de cansado 是很口语的“累死了”。"],
+      "difficulty": "A1",
+      "tags": ["日常", "情感"]
+    },
+    {
+      "headword": "ficar de boa",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["放松、别紧张", "待在一边没事干", "无所谓"],
+      "meanings": [
+        { "definition": "放松、别紧张", "note": "口语安抚" },
+        { "definition": "闲着、无所事事", "note": "ficar de boa em casa" }
+      ],
+      "patterns": ["ficar de boa", "fique de boa", "tô de boa"],
+      "collocations": ["tô de boa", "fica de boa", "de boa demais"],
+      "examples": [
+        { "sourceText": "Fica de boa, eu resolvo isso pra você.", "translation": "放松点，我帮你搞定。", "note": "很自然的安抚语气" },
+        { "sourceText": "Hoje eu só quero ficar de boa em casa.", "translation": "今天我就想在家待着放松。", "note": "表示无所事事地放松" }
+      ],
+      "relatedExpressions": ["relaxa", "tranquilo", "de boa"],
+      "usageNotes": ["de boa 单独用也表示“没事、无所谓”。"],
+      "difficulty": "B1",
+      "tags": ["俚语", "口语", "情感"]
+    },
+    {
+      "headword": "dar conta",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["应付", "处理", "完成", "搞定"],
+      "meanings": [
+        { "definition": "应付、处理得过来", "note": "dar conta de algo" },
+        { "definition": "完成、搞定", "note": "强调有能力做到" }
+      ],
+      "patterns": ["dar conta de algo", "dar conta de fazer algo", "não dar conta"],
+      "collocations": ["dar conta do trabalho", "dar conta do recado", "não dar conta de tudo"],
+      "examples": [
+        { "sourceText": "Eu não estou dando conta desse trabalho sozinho.", "translation": "这个工作我一个人应付不过来。", "note": "estar dando conta 表示持续状态" },
+        { "sourceText": "Ela dá conta de tudo ao mesmo tempo.", "translation": "她可以同时搞定所有事情。", "note": "" },
+        { "sourceText": "Não dou conta de estudar depois do trabalho.", "translation": "下班后我实在没办法学习。", "note": "não dar conta de + 动词" }
+      ],
+      "relatedExpressions": ["dar conta do recado", "não conseguir", "se virar"],
+      "usageNotes": ["字面是“给出账目”，实际意思是“应付得过来”。", "口语里常和 estar/no 一起表达力不从心。"],
+      "difficulty": "B1",
+      "tags": ["口语", "工作", "高频"]
+    },
+    {
+      "headword": "dar certo",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["成功", "行得通", "成"],
+      "meanings": [{ "definition": "结果顺利、成功", "note": "反义：dar errado" }],
+      "patterns": ["dar certo", "vai dar certo", "deu certo"],
+      "collocations": ["vai dar certo", "deu certo", "dar certo no final"],
+      "examples": [
+        { "sourceText": "Não se preocupa, vai dar certo.", "translation": "别担心，会成的。", "note": "安慰别人时非常常用" },
+        { "sourceText": "O plano deu certo e fechamos o projeto.", "translation": "计划成功了，我们把项目谈成了。", "note": "" }
+      ],
+      "relatedExpressions": ["dar errado", "funcionar", "valeu a pena"],
+      "usageNotes": ["注意 dar 的过去式：deu certo（成功了）。"],
+      "difficulty": "A2",
+      "tags": ["口语", "高频"]
+    },
+    {
+      "headword": "dar um jeito",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["想办法搞定", "解决"],
+      "meanings": [{ "definition": "设法解决（常含“我来想办法”）", "note": "巴西人解决问题的口头禅" }],
+      "patterns": ["dar um jeito em algo", "dar um jeito de fazer", "eu dou um jeito"],
+      "collocations": ["dar um jeito nisso", "dar um jeito de ir"],
+      "examples": [
+        { "sourceText": "Relaxa, eu dou um jeito nisso.", "translation": "别急，我来想办法。", "note": "" },
+        { "sourceText": "A gente dá um jeito de chegar mais cedo.", "translation": "我们想办法早点到。", "note": "" }
+      ],
+      "relatedExpressions": ["dar conta", "se virar", "resolver"],
+      "usageNotes": ["语气积极，表示“总会有办法”。"],
+      "difficulty": "B1",
+      "tags": ["口语", "高频"]
+    },
+    {
+      "headword": "ficar sabendo",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["得知", "听说到"],
+      "meanings": [{ "definition": "通过消息得知", "note": "ficar sabendo de algo" }],
+      "patterns": ["ficar sabendo de algo", "fiquei sabendo que"],
+      "collocations": ["fiquei sabendo", "acabei de ficar sabendo"],
+      "examples": [
+        { "sourceText": "Fiquei sabendo que você mudou de emprego.", "translation": "我听说你换工作了。", "note": "fiquei sabendo que 是标准句式" },
+        { "sourceText": "Como você ficou sabendo disso?", "translation": "你是怎么知道这件事的？", "note": "" }
+      ],
+      "relatedExpressions": ["descobrir", "ouvir dizer"],
+      "usageNotes": ["比 saber 更强调“获知的过程”。"],
+      "difficulty": "B1",
+      "tags": ["口语", "沟通"]
+    },
+    {
+      "headword": "estar a fim de",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["想要", "有意愿", "有意思（对某人）"],
+      "meanings": [
+        { "definition": "想做某事", "note": "estar a fim de fazer" },
+        { "definition": "对某人有好感", "note": "estar a fim de alguém" }
+      ],
+      "patterns": ["estar a fim de fazer algo", "estar a fim de alguém", "tô a fim de"],
+      "collocations": ["tô a fim de sair", "tô a fim de comer"],
+      "examples": [
+        { "sourceText": "Tô a fim de sair hoje, você vem?", "translation": "我今天想出去，你来吗？", "note": "巴西口语缩写 tô = estou" },
+        { "sourceText": "Não estou a fim de falar sobre isso agora.", "translation": "我现在不想谈这个。", "note": "否定形式用于婉拒" }
+      ],
+      "relatedExpressions": ["querer", "estar com vontade de"],
+      "usageNotes": ["注意“对某人有好感”的用法，别用错语境。"],
+      "difficulty": "B1",
+      "tags": ["口语", "情感"]
+    },
+    {
+      "headword": "vale a pena",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["值得"],
+      "meanings": [{ "definition": "值得（做某事）", "note": "vale a pena + 动词/名词" }],
+      "patterns": ["vale a pena", "valer a pena"],
+      "collocations": ["vale muito a pena", "não vale a pena"],
+      "examples": [
+        { "sourceText": "Vale a pena investir em um bom dicionário.", "translation": "投资一本好词典是值得的。", "note": "" },
+        { "sourceText": "Não vale a pena discutir com ele.", "translation": "跟他争不值得。", "note": "用于劝阻" }
+      ],
+      "relatedExpressions": ["valeu a pena", "compensar"],
+      "usageNotes": ["过去式 valeu a pena = 很值得（事后评价）。"],
+      "difficulty": "A2",
+      "tags": ["口语", "高频"]
+    },
+    {
+      "headword": "dar uma olhada",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["看一眼", "看一下"],
+      "meanings": [{ "definition": "快速查看", "note": "语气轻松，工作常用" }],
+      "patterns": ["dar uma olhada em algo", "pode dar uma olhada?"],
+      "collocations": ["dar uma olhada no documento", "dá uma olhada"],
+      "examples": [
+        { "sourceText": "Pode dar uma olhada nesse contrato?", "translation": "你能看一下这份合同吗？", "note": "职场求助的礼貌说法" },
+        { "sourceText": "Vou dar uma olhada e já te respondo.", "translation": "我看一下，马上回复你。", "note": "" }
+      ],
+      "relatedExpressions": ["verificar", "checar", "dar uma conferida"],
+      "usageNotes": ["比 verificar 更轻松、不那么正式。"],
+      "difficulty": "A2",
+      "tags": ["工作", "高频"]
+    },
+    {
+      "headword": "na hora",
+      "type": "phrase",
+      "partOfSpeech": "locução adverbial",
+      "translations": ["当场", "当时", "及时"],
+      "meanings": [
+        { "definition": "当场、立刻", "note": "resolver na hora" },
+        { "definition": "到那时", "note": "na hora eu vejo" }
+      ],
+      "patterns": ["na hora", "na hora certa", "em cima da hora"],
+      "collocations": ["resolver na hora", "decidir na hora", "em cima da hora"],
+      "examples": [
+        { "sourceText": "A gente resolve na hora, sem estresse.", "translation": "我们到时候现场解决，别紧张。", "note": "" },
+        { "sourceText": "Ele sempre aparece em cima da hora.", "translation": "他总是最后一刻才到。", "note": "em cima da hora = 卡点、最后一刻" }
+      ],
+      "relatedExpressions": ["em cima da hora", "na hora certa"],
+      "usageNotes": ["em cima da hora 常带轻微批评意味。"],
+      "difficulty": "B1",
+      "tags": ["口语", "时间"]
+    },
+    {
+      "headword": "de vez em quando",
+      "type": "phrase",
+      "partOfSpeech": "locução adverbial",
+      "translations": ["偶尔", "有时"],
+      "meanings": [{ "definition": "不经常，偶尔", "note": "频率副词" }],
+      "patterns": ["de vez em quando"],
+      "collocations": ["de vez em quando eu vou"],
+      "examples": [
+        { "sourceText": "De vez em quando eu vou à praia com a família.", "translation": "我偶尔和家人去海边。", "note": "" },
+        { "sourceText": "Ele aparece de vez em quando, mas não sempre.", "translation": "他偶尔出现，但不是每次。", "note": "" }
+      ],
+      "relatedExpressions": ["às vezes", "raramente"],
+      "usageNotes": ["比 às vezes 频率更低一些。"],
+      "difficulty": "A2",
+      "tags": ["口语", "时间"]
+    },
+    {
+      "headword": "por enquanto",
+      "type": "phrase",
+      "partOfSpeech": "locução adverbial",
+      "translations": ["暂时", "目前"],
+      "meanings": [{ "definition": "目前、暂时", "note": "工作与日常都常用" }],
+      "patterns": ["por enquanto", "por enquanto não"],
+      "collocations": ["por enquanto sim", "por enquanto não"],
+      "examples": [
+        { "sourceText": "Por enquanto está tudo certo.", "translation": "目前一切正常。", "note": "" },
+        { "sourceText": "Por enquanto não preciso de ajuda, obrigado.", "translation": "暂时不需要帮忙，谢谢。", "note": "" }
+      ],
+      "relatedExpressions": ["no momento", "até agora"],
+      "usageNotes": ["回答“要不要帮忙”时的礼貌拒绝。"],
+      "difficulty": "A2",
+      "tags": ["日常", "工作"]
+    },
+    {
+      "headword": "quebrar o gelo",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["打破尴尬", "破冰"],
+      "meanings": [{ "definition": "缓解初次见面的拘束", "note": "社交场合" }],
+      "patterns": ["quebrar o gelo", "para quebrar o gelo"],
+      "collocations": ["quebrar o gelo na reunião"],
+      "examples": [
+        { "sourceText": "Fiz uma piada para quebrar o gelo.", "translation": "我开了个玩笑来缓和气氛。", "note": "" },
+        { "sourceText": "Ele quebrou o gelo falando de futebol.", "translation": "他聊起足球打破了尴尬。", "note": "" }
+      ],
+      "relatedExpressions": ["puxar assunto", "descontrair"],
+      "usageNotes": ["巴西社交中足球、天气、食物是最常用的破冰话题。"],
+      "difficulty": "B1",
+      "tags": ["社交", "口语"]
+    },
+    {
+      "headword": "matar a saudade",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["缓解思念", "久别重逢"],
+      "meanings": [{ "definition": "见到想念的人或事物", "note": "情感类高频表达" }],
+      "patterns": ["matar a saudade de", "matar a saudade"],
+      "collocations": ["matar a saudade da família", "matar a saudade de casa"],
+      "examples": [
+        { "sourceText": "Vim matar a saudade da minha família.", "translation": "我回来缓解一下对家人的思念。", "note": "" },
+        { "sourceText": "Vamos tomar um café juntos para matar a saudade.", "translation": "我们一起喝杯咖啡，叙叙旧。", "note": "常用于老朋友重逢" }
+      ],
+      "relatedExpressions": ["saudade", "sentir falta"],
+      "usageNotes": ["与 saudade 搭配记忆最自然。"],
+      "difficulty": "B1",
+      "tags": ["情感", "口语"]
+    },
+    {
+      "headword": "fazer uma pergunta",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["提问", "问一个问题"],
+      "meanings": [{ "definition": "提问", "note": "巴西用 fazer pergunta，不用 perguntar uma pergunta" }],
+      "patterns": ["fazer uma pergunta", "posso fazer uma pergunta?"],
+      "collocations": ["fazer uma pergunta rápida"],
+      "examples": [
+        { "sourceText": "Posso fazer uma pergunta rápida?", "translation": "我能快速问个问题吗？", "note": "会议中非常实用" },
+        { "sourceText": "Ele fez uma pergunta muito boa.", "translation": "他问了一个很好的问题。", "note": "" }
+      ],
+      "relatedExpressions": ["perguntar", "tirar dúvida"],
+      "usageNotes": ["注意搭配是 fazer uma pergunta。"],
+      "difficulty": "A2",
+      "tags": ["工作", "学习"]
+    },
+    {
+      "headword": "dar uma dica",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["给个建议", "支招"],
+      "meanings": [{ "definition": "给出建议或小技巧", "note": "口语温暖自然" }],
+      "patterns": ["dar uma dica", "te dou uma dica"],
+      "collocations": ["dar uma dica de estudo", "uma dica rápida"],
+      "examples": [
+        { "sourceText": "Vou te dar uma dica: estuda com áudio.", "translation": "给你个建议：用音频学习。", "note": "" },
+        { "sourceText": "Me dá uma dica de restaurante aqui perto?", "translation": "给我推荐个附近的餐厅？", "note": "口语里 dá uma dica 也可以请求推荐" }
+      ],
+      "relatedExpressions": ["sugerir", "dica"],
+      "usageNotes": ["dica = 建议/小技巧，非常日常。"],
+      "difficulty": "A2",
+      "tags": ["口语", "日常"]
+    }
+  ]
+}

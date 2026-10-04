@@ -1,0 +1,298 @@
+{
+  "id": "collocations-br",
+  "name": "高频搭配（示例数据）",
+  "version": 1,
+  "license": "CC0-1.0",
+  "source": "作者原创示例数据",
+  "entries": [
+    {
+      "headword": "tomar uma decisão",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["做决定"],
+      "meanings": [{ "definition": "做出决定", "note": "动词搭配用 tomar，不用 fazer" }],
+      "patterns": ["tomar uma decisão", "tomar a decisão de fazer"],
+      "collocations": ["tomar uma decisão difícil"],
+      "examples": [
+        { "sourceText": "Precisamos tomar uma decisão até amanhã.", "translation": "我们得在明天前做决定。", "note": "" },
+        { "sourceText": "Ele tomou a decisão de mudar de cidade.", "translation": "他决定了要换城市。", "note": "" }
+      ],
+      "relatedExpressions": ["decidir", "escolher"],
+      "usageNotes": ["tomar uma decisão 比 decidir 更有分量、更书面。"],
+      "difficulty": "B1",
+      "tags": ["工作", "搭配"]
+    },
+    {
+      "headword": "fazer questão",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["坚持要", "很在意"],
+      "meanings": [{ "definition": "强调意愿强烈", "note": "fazer questão de fazer algo" }],
+      "patterns": ["fazer questão de fazer", "fazer questão de algo"],
+      "collocations": ["faço questão de ajudar", "fazer questão de pagar"],
+      "examples": [
+        { "sourceText": "Faço questão de pagar, você me ajudou muito.", "translation": "我一定要付钱，你帮了我很多。", "note": "社交中表达坚持与感谢" },
+        { "sourceText": "Ela fez questão de estar presente.", "translation": "她坚持要到场。", "note": "" }
+      ],
+      "relatedExpressions": ["insistir", "questão de"],
+      "usageNotes": ["很有礼貌的坚持方式，巴西人常用。"],
+      "difficulty": "B1",
+      "tags": ["社交", "搭配"]
+    },
+    {
+      "headword": "prestar atenção",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["注意", "专心"],
+      "meanings": [{ "definition": "集中注意力", "note": "prestar atenção em algo" }],
+      "patterns": ["prestar atenção em algo", "presta atenção"],
+      "collocations": ["prestar atenção nos detalhes"],
+      "examples": [
+        { "sourceText": "Presta atenção no que ele está dizendo.", "translation": "注意听他在说什么。", "note": "" },
+        { "sourceText": "Preciso prestar mais atenção nos detalhes.", "translation": "我得更注意细节。", "note": "" }
+      ],
+      "relatedExpressions": ["ficar atento", "focar"],
+      "usageNotes": ["加宾语时用 em：prestar atenção em algo。"],
+      "difficulty": "A2",
+      "tags": ["学习", "搭配"]
+    },
+    {
+      "headword": "correr o risco",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["冒风险"],
+      "meanings": [{ "definition": "承担风险", "note": "correr o risco de fazer algo" }],
+      "patterns": ["correr o risco de fazer", "correr risco"],
+      "collocations": ["correr o risco de perder"],
+      "examples": [
+        { "sourceText": "Não vou correr o risco de perder o prazo.", "translation": "我不会冒险错过截止时间。", "note": "" },
+        { "sourceText": "Vale a pena correr esse risco?", "translation": "这个险值得冒吗？", "note": "" }
+      ],
+      "relatedExpressions": ["arriscar", "vale a pena"],
+      "usageNotes": ["风险要用动词 correr（跑），这是搭配重点。"],
+      "difficulty": "B1",
+      "tags": ["工作", "搭配"]
+    },
+    {
+      "headword": "fazer sentido",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["说得通", "有道理"],
+      "meanings": [{ "definition": "逻辑上成立", "note": "日常与工作高频" }],
+      "patterns": ["fazer sentido", "não faz sentido"],
+      "collocations": ["faz total sentido", "não faz sentido nenhum"],
+      "examples": [
+        { "sourceText": "Agora faz sentido, obrigado!", "translation": "现在说得通了，谢谢！", "note": "" },
+        { "sourceText": "Essa decisão não faz sentido para mim.", "translation": "这个决定在我看来没道理。", "note": "礼貌表达不同意见" }
+      ],
+      "relatedExpressions": ["entender", "concordar"],
+      "usageNotes": ["否定式是表达不同意见的温和方式。"],
+      "difficulty": "A2",
+      "tags": ["工作", "口语", "搭配"]
+    },
+    {
+      "headword": "dar um retorno",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["回复", "反馈"],
+      "meanings": [{ "definition": "给出答复或反馈", "note": "巴西职场常用" }],
+      "patterns": ["dar um retorno", "dar um retorno para alguém"],
+      "collocations": ["dar um retorno até sexta"],
+      "examples": [
+        { "sourceText": "Vou dar um retorno até sexta-feira.", "translation": "我周五前给你回复。", "note": "职场高频承诺句式" },
+        { "sourceText": "Ele nunca dá retorno das propostas.", "translation": "他从来不回复提案。", "note": "" }
+      ],
+      "relatedExpressions": ["responder", "retornar"],
+      "usageNotes": ["比 responder 更正式、更有商务感。"],
+      "difficulty": "B1",
+      "tags": ["工作", "搭配"]
+    },
+    {
+      "headword": "cumprir o prazo",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["按时完成", "遵守期限"],
+      "meanings": [{ "definition": "遵守截止时间", "note": "工作场景核心搭配" }],
+      "patterns": ["cumprir o prazo", "cumprir o combinado"],
+      "collocations": ["cumprir o prazo de entrega", "cumprir a promessa"],
+      "examples": [
+        { "sourceText": "Conseguimos cumprir o prazo desta vez.", "translation": "这次我们按时完成了。", "note": "" },
+        { "sourceText": "É importante cumprir o combinado.", "translation": "遵守约定很重要。", "note": "cumprir o combinado = 守约" }
+      ],
+      "relatedExpressions": ["dentro do prazo", "cumprir"],
+      "usageNotes": ["cumprir 也用于承诺：cumprir a promessa。"],
+      "difficulty": "B1",
+      "tags": ["工作", "搭配"]
+    },
+    {
+      "headword": "marcar presença",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["到场", "露面"],
+      "meanings": [{ "definition": "出席活动", "note": "社交与工作通用" }],
+      "patterns": ["marcar presença", "marcar presença em"],
+      "collocations": ["marcar presença no evento"],
+      "examples": [
+        { "sourceText": "Vou marcar presença, mesmo que seja rápido.", "translation": "我会去露个面，就算待不久。", "note": "常用于“不能久留但会去一下”" },
+        { "sourceText": "Ela marcou presença na reunião importante.", "translation": "她出席了那场重要会议。", "note": "" }
+      ],
+      "relatedExpressions": ["aparecer", "participar"],
+      "usageNotes": ["比 ir 更强调“露脸、表示支持”。"],
+      "difficulty": "B1",
+      "tags": ["工作", "社交", "搭配"]
+    },
+    {
+      "headword": "quebrar o galho",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["帮个忙应急", "救场"],
+      "meanings": [{ "definition": "临时帮忙解决困难", "note": "巴西口语" }],
+      "patterns": ["quebrar o galho", "quebra esse galho pra mim"],
+      "collocations": ["quebrar um galho"],
+      "examples": [
+        { "sourceText": "Você pode quebrar esse galho pra mim?", "translation": "你能帮我救个急吗？", "note": "" },
+        { "sourceText": "Ele sempre quebra o galho quando precisa.", "translation": "需要的时候他总是来帮忙。", "note": "" }
+      ],
+      "relatedExpressions": ["dar uma mão", "ajudar"],
+      "usageNotes": ["语气轻松，适合同事和朋友之间。"],
+      "difficulty": "B1",
+      "tags": ["口语", "俚语"]
+    },
+    {
+      "headword": "dar uma mão",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["帮个忙"],
+      "meanings": [{ "definition": "帮忙", "note": "dar uma mão para alguém" }],
+      "patterns": ["dar uma mão", "dar uma mãozinha"],
+      "collocations": ["dar uma mãozinha com o projeto"],
+      "examples": [
+        { "sourceText": "Me dá uma mãozinha com isso?", "translation": "能帮我一下吗？", "note": "mãozinha 更亲切" },
+        { "sourceText": "Ele me deu uma mão enorme no projeto.", "translation": "他在项目上帮了我大忙。", "note": "" }
+      ],
+      "relatedExpressions": ["ajudar", "quebrar o galho"],
+      "usageNotes": ["工作场景很自然，不显得失礼。"],
+      "difficulty": "A2",
+      "tags": ["口语", "工作"]
+    },
+    {
+      "headword": "ficar em cima do muro",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["骑墙", "不表态"],
+      "meanings": [{ "definition": "两边都不得罪", "note": "形容人回避立场" }],
+      "patterns": ["ficar em cima do muro"],
+      "collocations": ["não dá pra ficar em cima do muro"],
+      "examples": [
+        { "sourceText": "Precisamos decidir, não dá para ficar em cima do muro.", "translation": "我们得做决定，不能骑墙。", "note": "" },
+        { "sourceText": "Ele ficou em cima do muro na discussão.", "translation": "讨论时他没有表态。", "note": "" }
+      ],
+      "relatedExpressions": ["não se posicionar", "decidir"],
+      "usageNotes": ["带轻微批评意味。"],
+      "difficulty": "B2",
+      "tags": ["俚语", "工作"]
+    },
+    {
+      "headword": "bater um papo",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["聊聊天"],
+      "meanings": [{ "definition": "轻松交谈", "note": "口语，语气亲切" }],
+      "patterns": ["bater um papo", "bater um papo com alguém"],
+      "collocations": ["bater um papo rápido"],
+      "examples": [
+        { "sourceText": "Vamos bater um papo depois do almoço?", "translation": "午饭后聊两句？", "note": "" },
+        { "sourceText": "Bati um papo com ela sobre a mudança.", "translation": "我跟她聊了聊变动的事。", "note": "" }
+      ],
+      "relatedExpressions": ["conversar", "trocar ideia"],
+      "usageNotes": ["比 conversar 更轻松随意。"],
+      "difficulty": "B1",
+      "tags": ["口语", "社交"]
+    },
+    {
+      "headword": "estar por dentro",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["了解情况", "消息灵通"],
+      "meanings": [{ "definition": "掌握最新信息", "note": "职场高频" }],
+      "patterns": ["estar por dentro de algo", "ficar por dentro"],
+      "collocations": ["estar por dentro do projeto"],
+      "examples": [
+        { "sourceText": "Preciso ficar por dentro das mudanças do projeto.", "translation": "我得了解项目的变化。", "note": "" },
+        { "sourceText": "Ela está por dentro de tudo que acontece na empresa.", "translation": "公司里发生什么她都知道。", "note": "" }
+      ],
+      "relatedExpressions": ["estar atualizado", "acompanhar"],
+      "usageNotes": ["反义：estar por fora = 不知情。"],
+      "difficulty": "B1",
+      "tags": ["工作", "口语"]
+    },
+    {
+      "headword": "pegar o jeito",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["上手", "摸到门道"],
+      "meanings": [{ "definition": "逐渐掌握方法", "note": "pegar o jeito de fazer" }],
+      "patterns": ["pegar o jeito", "pegar o jeito de fazer"],
+      "collocations": ["pegar o jeito da coisa"],
+      "examples": [
+        { "sourceText": "Depois de duas semanas, peguei o jeito.", "translation": "两周之后我上手了。", "note": "" },
+        { "sourceText": "Você vai pegar o jeito rápido.", "translation": "你很快会摸到门道。", "note": "鼓励别人时的常用语" }
+      ],
+      "relatedExpressions": ["aprender", "dar conta"],
+      "usageNotes": ["新工作、新语言学习场景非常常用。"],
+      "difficulty": "B1",
+      "tags": ["口语", "学习"]
+    },
+    {
+      "headword": "levar a sério",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["认真对待"],
+      "meanings": [{ "definition": "不轻视", "note": "levar algo a sério" }],
+      "patterns": ["levar algo a sério", "levar a sério"],
+      "collocations": ["levar o prazo a sério"],
+      "examples": [
+        { "sourceText": "Leve esse prazo a sério, é importante.", "translation": "认真对待这个期限，很重要。", "note": "" },
+        { "sourceText": "Ele não leva nada a sério.", "translation": "他什么都不当回事。", "note": "" }
+      ],
+      "relatedExpressions": ["dar importância", "levar a mal"],
+      "usageNotes": ["别和 levar a mal（生气、介意）混淆。"],
+      "difficulty": "B1",
+      "tags": ["工作", "搭配"]
+    },
+    {
+      "headword": "estar com pressa",
+      "type": "phrase",
+      "partOfSpeech": "locução verbal",
+      "translations": ["赶时间"],
+      "meanings": [{ "definition": "时间紧张", "note": "estar com + 名词" }],
+      "patterns": ["estar com pressa", "estar com muita pressa"],
+      "collocations": ["estou com pressa agora"],
+      "examples": [
+        { "sourceText": "Desculpa, estou com pressa agora.", "translation": "抱歉，我现在赶时间。", "note": "礼貌结束对话的常用说法" },
+        { "sourceText": "Ele sempre está com pressa.", "translation": "他总是很赶。", "note": "" }
+      ],
+      "relatedExpressions": ["estar atrasado", "correr"],
+      "usageNotes": ["pressa 是名词，用 estar com。"],
+      "difficulty": "A2",
+      "tags": ["日常", "搭配"]
+    },
+    {
+      "headword": "estar de folga",
+      "type": "phrase",
+      "partOfSpeech": "locução adjetiva",
+      "translations": ["休息", "休假"],
+      "meanings": [{ "definition": "不在工作时间", "note": "estar de folga" }],
+      "patterns": ["estar de folga", "folga no trabalho"],
+      "collocations": ["hoje estou de folga"],
+      "examples": [
+        { "sourceText": "Hoje estou de folga, vou aproveitar para descansar.", "translation": "我今天休息，打算好好放松。", "note": "" },
+        { "sourceText": "Minha folga é na terça-feira.", "translation": "我周二休息。", "note": "" }
+      ],
+      "relatedExpressions": ["férias", "folga"],
+      "usageNotes": ["férias 是长假，folga 是日常休息日。"],
+      "difficulty": "A2",
+      "tags": ["工作", "日常"]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": "top-verbs",
+  "name": "高频动词与变位（示例数据）",
+  "version": 1,
+  "license": "CC0-1.0",
+  "source": "作者原创示例数据",
+  "entries": [
+    {
+      "headword": "ser",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["是（本质）"],
+      "meanings": [{ "definition": "表示身份、本质、特征", "note": "现在时：sou, é, somos, são" }],
+      "patterns": ["ser + 名词", "ser de + 地点", "ser + 形容词"],
+      "collocations": ["ser brasileiro", "ser legal", "ser importante"],
+      "examples": [
+        { "sourceText": "Eu sou de Xangai, mas moro em São Paulo.", "translation": "我是上海人，但住在圣保罗。", "note": "ser de = 来自" },
+        { "sourceText": "Esse assunto é muito importante.", "translation": "这件事很重要。", "note": "过去式：fui, foi, fomos, foram" }
+      ],
+      "usageNotes": ["本质用 ser，临时状态用 estar：ele é animado（性格）/ ele está animado（当下）。"],
+      "difficulty": "A1",
+      "tags": ["语法", "动词", "基础"]
+    },
+    {
+      "headword": "estar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["在", "处于（状态）"],
+      "meanings": [{ "definition": "表示临时状态或位置", "note": "现在时：estou, está, estamos, estão" }],
+      "patterns": ["estar em", "estar com", "estar + 形容词"],
+      "collocations": ["estar bem", "estar com pressa", "estar no trabalho"],
+      "examples": [
+        { "sourceText": "Estou com pressa agora, falo com você depois.", "translation": "我现在很赶，之后跟你说。", "note": "estar com + 名词 表示状态" },
+        { "sourceText": "Ele está no escritório desde cedo.", "translation": "他从早上就在办公室。", "note": "过去式：estive, esteve, estivemos" }
+      ],
+      "usageNotes": ["estar com pressa / fome / sono 是固定的状态表达。"],
+      "difficulty": "A1",
+      "tags": ["语法", "动词", "基础"]
+    },
+    {
+      "headword": "ter",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["有", "必须（ter que）"],
+      "meanings": [
+        { "definition": "拥有", "note": "现在时：tenho, tem, temos, têm" },
+        { "definition": "必须", "note": "ter que + 动词原形" }
+      ],
+      "patterns": ["ter algo", "ter que fazer", "ter razão"],
+      "collocations": ["ter tempo", "ter razão", "ter que ir", "ter pressa"],
+      "examples": [
+        { "sourceText": "Tenho que sair mais cedo hoje.", "translation": "我今天得早点走。", "note": "ter que = 必须，巴西日常首选" },
+        { "sourceText": "Você tem razão nesse ponto.", "translation": "这点你说得对。", "note": "ter razão = 有道理" }
+      ],
+      "usageNotes": ["巴西口语里 ter que 比 precisar 更常用。"],
+      "difficulty": "A1",
+      "tags": ["语法", "动词", "基础"]
+    },
+    {
+      "headword": "ir",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["去", "将要"],
+      "meanings": [
+        { "definition": "前往", "note": "现在时：vou, vai, vamos, vão" },
+        { "definition": "将来时结构", "note": "ir + 动词原形 = 将要" }
+      ],
+      "patterns": ["ir a", "ir para", "ir + 动词"],
+      "collocations": ["vou fazer", "vai ser", "vamos ver"],
+      "examples": [
+        { "sourceText": "Vou te mandar o arquivo agora.", "translation": "我现在把文件发给你。", "note": "ir + 动词表示将来，巴西最常用" },
+        { "sourceText": "Vamos ver como fica.", "translation": "我们看看结果怎么样。", "note": "vamos ver 高频口语" }
+      ],
+      "usageNotes": ["巴西几乎不用 futuro simples（falarei），都说 vou falar。"],
+      "difficulty": "A1",
+      "tags": ["语法", "动词", "基础"]
+    },
+    {
+      "headword": "fazer",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["做", "制作"],
+      "meanings": [{ "definition": "做、制造", "note": "现在时：faço, faz, fazemos, fazem" }],
+      "patterns": ["fazer algo", "fazer com que", "fazer questão de"],
+      "collocations": ["fazer sentido", "fazer questão", "fazer uma pergunta", "fazer compras"],
+      "examples": [
+        { "sourceText": "Faz sentido o que você disse.", "translation": "你说的有道理。", "note": "fazer sentido = 说得通" },
+        { "sourceText": "Faço questão de te ajudar.", "translation": "我一定要帮你。", "note": "fazer questão de = 坚持要" }
+      ],
+      "usageNotes": ["fazer 的固定搭配极多，建议整块记忆。"],
+      "difficulty": "A1",
+      "tags": ["语法", "动词", "高频"]
+    },
+    {
+      "headword": "poder",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["可以", "能"],
+      "meanings": [{ "definition": "表示许可或能力", "note": "现在时：posso, pode, podemos, podem" }],
+      "patterns": ["poder fazer", "pode ser", "será que pode"],
+      "collocations": ["pode ser", "posso ajudar", "não pode"],
+      "examples": [
+        { "sourceText": "Posso te ajudar em algo?", "translation": "我能帮你做点什么吗？", "note": "" },
+        { "sourceText": "— Sexta às três? — Pode ser.", "translation": "——周五三点？——可以。", "note": "pode ser = 可以，灵活回应" }
+      ],
+      "usageNotes": ["pode ser 是万能的“可以、行”。"],
+      "difficulty": "A1",
+      "tags": ["语法", "动词", "基础"]
+    },
+    {
+      "headword": "querer",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["想要", "爱（某人）"],
+      "meanings": [{ "definition": "想要", "note": "现在时：quero, quer, queremos, querem" }],
+      "patterns": ["querer algo", "querer fazer", "querer dizer"],
+      "collocations": ["querer dizer", "quero muito", "se você quiser"],
+      "examples": [
+        { "sourceText": "O que você quer dizer com isso?", "translation": "你这么说是什么意思？", "note": "querer dizer = 意思是" },
+        { "sourceText": "Se você quiser, eu te explico melhor.", "translation": "你想的话，我再详细解释。", "note": "se + 虚拟式将来时 quiser" }
+      ],
+      "usageNotes": ["礼貌请求更常用 queria 或 gostaria。"],
+      "difficulty": "A1",
+      "tags": ["语法", "动词", "基础"]
+    },
+    {
+      "headword": "saber",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["知道", "会（技能）"],
+      "meanings": [
+        { "definition": "知道信息", "note": "现在时：sei, sabe, sabemos, sabem" },
+        { "definition": "会做某技能", "note": "sei nadar = 我会游泳" }
+      ],
+      "patterns": ["saber algo", "saber fazer", "quem sabe"],
+      "collocations": ["não sei", "quem sabe", "saber bem"],
+      "examples": [
+        { "sourceText": "Não sei ainda, te aviso depois.", "translation": "我还不确定，之后通知你。", "note": "" },
+        { "sourceText": "Ela sabe falar três idiomas.", "translation": "她会说三种语言。", "note": "技能用 saber" }
+      ],
+      "usageNotes": ["saber 表示“会”指掌握技能；poder 指有条件或许可。"],
+      "difficulty": "A1",
+      "tags": ["语法", "动词", "基础"]
+    },
+    {
+      "headword": "ver",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["看", "看到"],
+      "meanings": [{ "definition": "看、见到", "note": "现在时：vejo, vê, vemos, veem；过去式：vi, viu" }],
+      "patterns": ["ver algo", "ver se", "vamos ver"],
+      "collocations": ["vamos ver", "ver no celular"],
+      "examples": [
+        { "sourceText": "Vou ver se consigo ir.", "translation": "我看看能不能去。", "note": "ver se + 虚拟式，委婉答复常用" },
+        { "sourceText": "Vi sua mensagem só agora.", "translation": "我刚看到你的消息。", "note": "" }
+      ],
+      "usageNotes": ["vou ver se... 是巴西人最常用的委婉表达之一。"],
+      "difficulty": "A1",
+      "tags": ["语法", "动词", "基础"]
+    },
+    {
+      "headword": "falar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["说", "讲", "谈"],
+      "meanings": [{ "definition": "说话、谈话", "note": "现在时：falo, fala, falamos, falam" }],
+      "patterns": ["falar com alguém", "falar sobre algo", "falar que"],
+      "collocations": ["falar com", "falar sobre", "falar alto"],
+      "examples": [
+        { "sourceText": "Depois eu falo com você sobre isso.", "translation": "之后我跟你谈这件事。", "note": "falar com = 与某人谈" },
+        { "sourceText": "Ele fala português muito bem.", "translation": "他葡萄牙语说得很好。", "note": "" }
+      ],
+      "usageNotes": ["falar com alguém（跟某人说）；falar sobre algo（谈某事）。"],
+      "difficulty": "A1",
+      "tags": ["语法", "动词", "沟通"]
+    },
+    {
+      "headword": "trabalhar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["工作"],
+      "meanings": [{ "definition": "工作、上班", "note": "现在时：trabalho, trabalha, trabalhamos, trabalham" }],
+      "patterns": ["trabalhar em", "trabalhar com", "trabalhar de"],
+      "collocations": ["trabalhar em casa", "trabalhar duro", "trabalhar de home office"],
+      "examples": [
+        { "sourceText": "Trabalho com tecnologia desde 2018.", "translation": "我从 2018 年开始做技术工作。", "note": "trabalhar com = 从事某个领域" },
+        { "sourceText": "Ela trabalha de home office duas vezes por semana.", "translation": "她每周远程办公两天。", "note": "trabalhar de = 以某种方式工作" }
+      ],
+      "usageNotes": ["trabalhar em + 公司/城市；trabalhar com + 领域/人。"],
+      "difficulty": "A1",
+      "tags": ["工作", "动词"]
+    },
+    {
+      "headword": "aprender",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["学会", "学到"],
+      "meanings": [{ "definition": "学会技能或知识", "note": "现在时：aprendo, aprende, aprendemos" }],
+      "patterns": ["aprender algo", "aprender a fazer", "aprender com"],
+      "collocations": ["aprender português", "aprender na prática"],
+      "examples": [
+        { "sourceText": "Aprendi muito trabalhando com brasileiros.", "translation": "跟巴西同事一起工作让我学到很多。", "note": "" },
+        { "sourceText": "Estou aprendendo a cozinhar pratos brasileiros.", "translation": "我在学做巴西菜。", "note": "aprender a + 动词" }
+      ],
+      "usageNotes": ["别忘介词：aprender a fazer algo。"],
+      "difficulty": "A2",
+      "tags": ["学习", "动词"]
+    },
+    {
+      "headword": "mandar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["发送", "叫（某人做）"],
+      "meanings": [
+        { "definition": "发送（消息、文件）", "note": "巴西口语高频" },
+        { "definition": "让某人做某事", "note": "mandar alguém fazer" }
+      ],
+      "patterns": ["mandar algo", "mandar alguém fazer", "manda ver"],
+      "collocations": ["mandar mensagem", "mandar e-mail", "manda ver"],
+      "examples": [
+        { "sourceText": "Me manda o link, por favor.", "translation": "把链接发给我，谢谢。", "note": "口语发送用 mandar，比 enviar 自然" },
+        { "sourceText": "Manda ver, você consegue!", "translation": "加油干吧，你可以的！", "note": "manda ver = 上吧、加油" }
+      ],
+      "usageNotes": ["enviar 更正式（合同、公文），口语几乎都说 mandar。"],
+      "difficulty": "A2",
+      "tags": ["口语", "工作", "动词"]
+    },
+    {
+      "headword": "chegar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["到达", "来"],
+      "meanings": [{ "definition": "到达", "note": "现在时：chego, chega, chegamos；过去式：cheguei, chegou" }],
+      "patterns": ["chegar em", "chegar a", "chegar cedo"],
+      "collocations": ["chegar atrasado", "chegar em casa", "chegar na hora"],
+      "examples": [
+        { "sourceText": "Cheguei atrasado por causa do trânsito.", "translation": "因为堵车我迟到了。", "note": "" },
+        { "sourceText": "Me avisa quando chegar.", "translation": "你到了告诉我。", "note": "quando + 虚拟式将来时 chegar" }
+      ],
+      "usageNotes": ["巴西：chegar em casa；葡萄牙：chegar a casa。"],
+      "difficulty": "A2",
+      "tags": ["日常", "动词"]
+    },
+    {
+      "headword": "deixar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["让", "留下", "放下"],
+      "meanings": [{ "definition": "让某人做、留下", "note": "现在时：deixo, deixa, deixamos" }],
+      "patterns": ["deixar alguém fazer", "deixar algo", "deixa eu"],
+      "collocations": ["deixa eu ver", "deixar claro", "deixar recado"],
+      "examples": [
+        { "sourceText": "Deixa eu verificar e já te falo.", "translation": "让我确认一下，马上告诉你。", "note": "deixa eu + 动词，口语高频" },
+        { "sourceText": "Vou deixar o documento com você.", "translation": "我把文件留在你这儿。", "note": "" }
+      ],
+      "usageNotes": ["deixa eu = 让我，比 deixe-me 更自然。"],
+      "difficulty": "A2",
+      "tags": ["口语", "动词"]
+    },
+    {
+      "headword": "ficar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["待着", "变得", "留下来"],
+      "meanings": [{ "definition": "停留、变得", "note": "现在时：fico, fica, ficamos；过去式：fiquei, ficou" }],
+      "patterns": ["ficar em", "ficar com", "ficar + 形容词"],
+      "collocations": ["ficar em casa", "ficar de boa", "ficar atento", "fique à vontade"],
+      "examples": [
+        { "sourceText": "Fica atento aos detalhes do contrato.", "translation": "注意合同的细节。", "note": "ficar atento = 保持注意" },
+        { "sourceText": "Fiquei surpreso com a notícia.", "translation": "我对这个消息感到惊讶。", "note": "ficar + 形容词 = 变得" }
+      ],
+      "usageNotes": ["fique à vontade = 请随意，招待客人常用。"],
+      "difficulty": "A2",
+      "tags": ["语法", "动词", "高频"]
+    },
+    {
+      "headword": "dar",
+      "type": "word",
+      "partOfSpeech": "verbo",
+      "translations": ["给", "多功能动词"],
+      "meanings": [{ "definition": "给，以及大量固定搭配", "note": "现在时：dou, dá, damos, dão；过去式：dei, deu" }],
+      "patterns": ["dar algo", "dar para + 动词", "dar com"],
+      "collocations": ["dar certo", "dar conta", "dar um jeito", "dar tempo", "dar uma olhada", "dar dica"],
+      "examples": [
+        { "sourceText": "Isso não dá para fazer em um dia.", "translation": "这个一天做不完。", "note": "dar para + 动词 = 能做、可能" },
+        { "sourceText": "Ele deu uma dica ótima.", "translation": "他给了一个很好的建议。", "note": "" }
+      ],
+      "usageNotes": ["dar 的搭配是巴西葡语的核心，建议专门整理成卡片。"],
+      "difficulty": "B1",
+      "tags": ["语法", "动词", "高频"]
+    }
+  ]
+}

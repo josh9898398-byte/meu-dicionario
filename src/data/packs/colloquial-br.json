@@ -1,0 +1,437 @@
+{
+  "id": "colloquial-br",
+  "name": "巴西高频口语表达（示例数据）",
+  "version": 1,
+  "license": "CC0-1.0",
+  "source": "作者原创示例数据",
+  "entries": [
+    {
+      "headword": "beleza",
+      "type": "expression",
+      "partOfSpeech": "interjeição",
+      "translations": ["好", "行", "没问题"],
+      "meanings": [{ "definition": "表示同意或确认", "note": "巴西最常用的口头确认之一" }],
+      "patterns": ["beleza?", "beleza!", "beleza então"],
+      "collocations": ["beleza, combinado", "tá beleza"],
+      "examples": [
+        { "sourceText": "— Te vejo às oito. — Beleza!", "translation": "——八点见。——好！", "note": "回答约定" },
+        { "sourceText": "Beleza, então a gente se fala depois.", "translation": "行，那我们之后再联系。", "note": "结束对话常用" }
+      ],
+      "relatedExpressions": ["combinado", "tranquilo", "fechado"],
+      "usageNotes": ["也可以表示“漂亮”，但对话里几乎都是“行、好”。"],
+      "difficulty": "A2",
+      "tags": ["口语", "俚语"]
+    },
+    {
+      "headword": "valeu",
+      "type": "expression",
+      "partOfSpeech": "interjeição",
+      "translations": ["谢谢", "辛苦了"],
+      "meanings": [{ "definition": "随意的感谢", "note": "来自 valer，含“值了、够意思”" }],
+      "patterns": ["valeu!", "valeu, viu", "valeu mesmo"],
+      "collocations": ["valeu, cara", "valeu pela ajuda"],
+      "examples": [
+        { "sourceText": "Valeu pela ajuda, viu!", "translation": "谢谢你的帮忙啊！", "note": "结尾 viu 让语气更亲切" },
+        { "sourceText": "Valeu, a gente se vê amanhã.", "translation": "谢啦，明天见。", "note": "" }
+      ],
+      "relatedExpressions": ["obrigado", "valeu a pena"],
+      "usageNotes": ["对长辈或客户用 obrigado 更稳妥。"],
+      "difficulty": "A2",
+      "tags": ["口语", "社交"]
+    },
+    {
+      "headword": "pois é",
+      "type": "expression",
+      "partOfSpeech": "interjeição",
+      "translations": ["是啊", "就是说嘛"],
+      "meanings": [{ "definition": "表示认同、附和", "note": "常带一点无奈或感慨" }],
+      "patterns": ["pois é", "pois é, né?"],
+      "collocations": ["pois é, complicado"],
+      "examples": [
+        { "sourceText": "— O trânsito está horrível. — Pois é.", "translation": "——交通太糟了。——是啊。", "note": "附和对方" },
+        { "sourceText": "Pois é, as coisas mudaram muito.", "translation": "就是说嘛，情况变了很多。", "note": "" }
+      ],
+      "relatedExpressions": ["né", "é isso aí"],
+      "usageNotes": ["说 pois é 时通常配合点头，语气自然。"],
+      "difficulty": "A2",
+      "tags": ["口语", "对话"]
+    },
+    {
+      "headword": "né",
+      "type": "expression",
+      "partOfSpeech": "interjeição",
+      "translations": ["对吧", "是不是"],
+      "meanings": [{ "definition": "确认对方意见的附加问句", "note": "não é 的口语缩写" }],
+      "patterns": ["né?", "né, cara"],
+      "collocations": ["legal, né", "difícil, né"],
+      "examples": [
+        { "sourceText": "Esse filme é ótimo, né?", "translation": "这电影很棒，对吧？", "note": "几乎每段对话都会出现" },
+        { "sourceText": "Né, eu também acho.", "translation": "对吧，我也这么觉得。", "note": "" }
+      ],
+      "relatedExpressions": ["não é", "pois é"],
+      "usageNotes": ["口语中非常频繁，正式书面文本里不要用。"],
+      "difficulty": "A2",
+      "tags": ["口语", "对话"]
+    },
+    {
+      "headword": "tipo assim",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["就像这样", "那个……"],
+      "meanings": [{ "definition": "填充语，用来组织语言", "note": "年轻人常用" }],
+      "patterns": ["tipo assim, ...", "tipo"],
+      "collocations": ["tipo assim, sabe"],
+      "examples": [
+        { "sourceText": "Tipo assim, eu não concordo totalmente.", "translation": "怎么说呢，我不完全同意。", "note": "让语气更委婉" },
+        { "sourceText": "Ele é tipo assim, muito organizado.", "translation": "他算是……非常有条理的那种。", "note": "" }
+      ],
+      "relatedExpressions": ["sabe", "entendeu"],
+      "usageNotes": ["相当于中文的“就是那种感觉”，正式场合避免。"],
+      "difficulty": "B1",
+      "tags": ["口语", "俚语"]
+    },
+    {
+      "headword": "nossa",
+      "type": "expression",
+      "partOfSpeech": "interjeição",
+      "translations": ["哇", "天哪"],
+      "meanings": [{ "definition": "表示惊讶", "note": "Nossa Senhora 的省略" }],
+      "patterns": ["nossa!", "nossa, sério?"],
+      "collocations": ["nossa senhora", "nossa, que legal"],
+      "examples": [
+        { "sourceText": "Nossa, que notícia boa!", "translation": "哇，好消息啊！", "note": "表示惊喜" },
+        { "sourceText": "Nossa, isso é muito caro.", "translation": "天哪，这太贵了。", "note": "" }
+      ],
+      "relatedExpressions": ["caramba", "meu Deus"],
+      "usageNotes": ["语气友好，不会冒犯别人。"],
+      "difficulty": "A2",
+      "tags": ["口语", "情感"]
+    },
+    {
+      "headword": "sei lá",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["不知道", "说不准"],
+      "meanings": [{ "definition": "表示不确定或不在乎", "note": "语气比较随意" }],
+      "patterns": ["sei lá", "sei lá, né"],
+      "collocations": ["sei lá, cara"],
+      "examples": [
+        { "sourceText": "— Você acha que vai chover? — Sei lá.", "translation": "——你觉得会下雨吗？——不知道啊。", "note": "" },
+        { "sourceText": "Sei lá, talvez seja melhor esperar.", "translation": "说不准，也许等一等更好。", "note": "" }
+      ],
+      "relatedExpressions": ["não sei", "talvez"],
+      "usageNotes": ["对老板说可能显得敷衍，正式场合用 não sei ao certo。"],
+      "difficulty": "B1",
+      "tags": ["口语", "俚语"]
+    },
+    {
+      "headword": "deixa quieto",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["算了", "别管了"],
+      "meanings": [{ "definition": "表示放弃追究、不再提", "note": "口语常用" }],
+      "patterns": ["deixa quieto", "deixa pra lá"],
+      "collocations": ["deixa quieto, esquece"],
+      "examples": [
+        { "sourceText": "Deixa quieto, não vale a pena discutir.", "translation": "算了，不值得争。", "note": "" },
+        { "sourceText": "— E o problema? — Deixa pra lá.", "translation": "——那问题呢？——算了吧。", "note": "deixa pra lá 更口语" }
+      ],
+      "relatedExpressions": ["deixa pra lá", "esquece"],
+      "usageNotes": ["说 deixa pra lá 有时暗示不想再谈了。"],
+      "difficulty": "B1",
+      "tags": ["口语", "对话"]
+    },
+    {
+      "headword": "tô nem aí",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["我不在乎", "无所谓"],
+      "meanings": [{ "definition": "表示完全不关心", "note": "tô = estou" }],
+      "patterns": ["tô nem aí", "não estou nem aí"],
+      "collocations": ["tô nem aí pra isso"],
+      "examples": [
+        { "sourceText": "Tô nem aí pro que eles pensam.", "translation": "他们怎么想我一点都不在乎。", "note": "年轻人口语，语气较随意" },
+        { "sourceText": "Ela não está nem aí para o prazo.", "translation": "她根本不管截止时间。", "note": "" }
+      ],
+      "relatedExpressions": ["não importa", "tanto faz"],
+      "usageNotes": ["对客户或上级说会显得不礼貌。"],
+      "difficulty": "B1",
+      "tags": ["俚语", "情感"]
+    },
+    {
+      "headword": "cara de pau",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["厚脸皮", "不要脸"],
+      "meanings": [{ "definition": "形容人无耻、无礼", "note": "口语，带批评" }],
+      "patterns": ["que cara de pau", "ser cara de pau"],
+      "collocations": ["que cara de pau dele"],
+      "examples": [
+        { "sourceText": "Que cara de pau, chegou uma hora atrasado e nem pediu desculpa.", "translation": "脸皮真厚，迟到一小时还不道歉。", "note": "" },
+        { "sourceText": "Ele é muito cara de pau, sempre pede favor.", "translation": "他脸皮太厚了，老是求人帮忙。", "note": "" }
+      ],
+      "relatedExpressions": ["sem vergonha", "folgado"],
+      "usageNotes": ["带贬义，只能用于私下吐槽。"],
+      "difficulty": "B2",
+      "tags": ["俚语", "情感"]
+    },
+    {
+      "headword": "puxa saco",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["马屁精"],
+      "meanings": [{ "definition": "讨好上级的人", "note": "职场口语" }],
+      "patterns": ["ser puxa saco", "puxa saco do chefe"],
+      "collocations": ["puxa saco do chefe"],
+      "examples": [
+        { "sourceText": "Ele é o puxa saco do chefe, todo mundo sabe.", "translation": "他是老板的马屁精，大家都知道。", "note": "" },
+        { "sourceText": "Não gosto de gente puxa saco.", "translation": "我不喜欢拍马屁的人。", "note": "" }
+      ],
+      "relatedExpressions": ["bajular", "puxar o saco"],
+      "usageNotes": ["巴西职场非正式吐槽用语，别当面说。"],
+      "difficulty": "B2",
+      "tags": ["俚语", "工作"]
+    },
+    {
+      "headword": "dar um tempo",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["休息一下", "暂停（感情）"],
+      "meanings": [
+        { "definition": "休息一段时间", "note": "轻松语境" },
+        { "definition": "感情暂停", "note": "情侣暂时分开一段时间" }
+      ],
+      "patterns": ["dar um tempo", "vou dar um tempo"],
+      "collocations": ["dar um tempo no trabalho"],
+      "examples": [
+        { "sourceText": "Vou dar um tempo e já volto.", "translation": "我休息一下，马上回来。", "note": "" },
+        { "sourceText": "Eles deram um tempo no relacionamento.", "translation": "他们的感情暂时冷却了一下。", "note": "" }
+      ],
+      "relatedExpressions": ["fazer uma pausa", "dar uma parada"],
+      "usageNotes": ["感情语境需要根据上下文判断，避免误会。"],
+      "difficulty": "B1",
+      "tags": ["口语", "日常"]
+    },
+    {
+      "headword": "ficar de olho",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["留意", "盯着"],
+      "meanings": [{ "definition": "保持关注", "note": "工作与日常都常用" }],
+      "patterns": ["ficar de olho em", "fica de olho"],
+      "collocations": ["ficar de olho no prazo", "ficar de olho nas promoções"],
+      "examples": [
+        { "sourceText": "Fica de olho no e-mail, eles respondem rápido.", "translation": "留意一下邮件，他们回得很快。", "note": "" },
+        { "sourceText": "Estou de olho nessa vaga.", "translation": "我盯着这个职位。", "note": "" }
+      ],
+      "relatedExpressions": ["acompanhar", "prestar atenção"],
+      "usageNotes": ["比 observar 更口语、更有警觉感。"],
+      "difficulty": "B1",
+      "tags": ["口语", "工作"]
+    },
+    {
+      "headword": "pisar na bola",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["搞砸", "犯错"],
+      "meanings": [{ "definition": "做错事、失误", "note": "来自足球，巴西口语极常见" }],
+      "patterns": ["pisar na bola", "pisei na bola"],
+      "collocations": ["pisar na bola com o cliente"],
+      "examples": [
+        { "sourceText": "Pisei na bola e esqueci a reunião.", "translation": "我搞砸了，忘了会议。", "note": "" },
+        { "sourceText": "Ele pisou na bola com o cliente.", "translation": "他在客户那边出错了。", "note": "" }
+      ],
+      "relatedExpressions": ["errar", "meter o pé"],
+      "usageNotes": ["职场中可用于自嘲，但别用来指责上级。"],
+      "difficulty": "B1",
+      "tags": ["俚语", "工作"]
+    },
+    {
+      "headword": "chutar o balde",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["摆烂", "破罐破摔"],
+      "meanings": [{ "definition": "放弃努力、任由事情发展", "note": "口语，情绪强" }],
+      "patterns": ["chutar o balde", "chutei o balde"],
+      "collocations": ["chutar o balde no trabalho"],
+      "examples": [
+        { "sourceText": "Ele chutou o balde e pediu demissão.", "translation": "他破罐破摔，直接辞职了。", "note": "" },
+        { "sourceText": "Não dá pra chutar o balde agora, temos prazo.", "translation": "现在不能摆烂，我们有截止时间。", "note": "" }
+      ],
+      "relatedExpressions": ["desistir", "largar mão"],
+      "usageNotes": ["情绪较强烈，正式场合不要用。"],
+      "difficulty": "B2",
+      "tags": ["俚语", "情感"]
+    },
+    {
+      "headword": "na moral",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["说真的", "老实说"],
+      "meanings": [{ "definition": "强调真诚、认真", "note": "口语，年轻人多用" }],
+      "patterns": ["na moral", "na moral, cara"],
+      "collocations": ["na moral, eu preciso disso"],
+      "examples": [
+        { "sourceText": "Na moral, eu preciso muito dessa ajuda.", "translation": "说真的，我特别需要这个帮忙。", "note": "" },
+        { "sourceText": "Na moral, esse filme é bom demais.", "translation": "老实说，这电影太好了。", "note": "" }
+      ],
+      "relatedExpressions": ["sério", "juro"],
+      "usageNotes": ["非常口语，正式场合不要用。"],
+      "difficulty": "B2",
+      "tags": ["俚语", "口语"]
+    },
+    {
+      "headword": "a gente se vê",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["再联系", "回头见"],
+      "meanings": [{ "definition": "告别语", "note": "日常自然" }],
+      "patterns": ["a gente se vê", "a gente se fala"],
+      "collocations": ["a gente se vê amanhã", "a gente se fala depois"],
+      "examples": [
+        { "sourceText": "Beleza, a gente se vê amanhã.", "translation": "行，明天见。", "note": "" },
+        { "sourceText": "A gente se fala depois, tenho que ir.", "translation": "之后再聊，我得走了。", "note": "se fala 用于电话/消息" }
+      ],
+      "relatedExpressions": ["até mais", "tchau"],
+      "usageNotes": ["见面用 se vê，电话/聊天用 se fala。"],
+      "difficulty": "A2",
+      "tags": ["口语", "社交"]
+    },
+    {
+      "headword": "tomara",
+      "type": "expression",
+      "partOfSpeech": "interjeição",
+      "translations": ["但愿", "希望如此"],
+      "meanings": [{ "definition": "表达期待或期望", "note": "常接 que + 虚拟式" }],
+      "patterns": ["tomara", "tomara que"],
+      "collocations": ["tomara que dê certo"],
+      "examples": [
+        { "sourceText": "Tomara que dê tempo de terminar.", "translation": "希望能来得及做完。", "note": "tomara que + 虚拟式" },
+        { "sourceText": "— Vai dar certo. — Tomara!", "translation": "——会成功的。——但愿如此！", "note": "" }
+      ],
+      "relatedExpressions": ["espero que", "quem dera"],
+      "usageNotes": ["tomara 后面的动词要用虚拟式。"],
+      "difficulty": "B1",
+      "tags": ["口语", "情感"]
+    },
+    {
+      "headword": "que pena",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["真可惜", "太遗憾了"],
+      "meanings": [{ "definition": "表示惋惜", "note": "社交必备" }],
+      "patterns": ["que pena", "que pena que"],
+      "collocations": ["que pena, né"],
+      "examples": [
+        { "sourceText": "Que pena que você não pode ir.", "translation": "你去不了，真可惜。", "note": "" },
+        { "sourceText": "— Não vou conseguir ir. — Ah, que pena!", "translation": "——我去不了了。——啊，太可惜了！", "note": "" }
+      ],
+      "relatedExpressions": ["que chato", "uma pena"],
+      "usageNotes": ["语气温和礼貌，适合各种场合。"],
+      "difficulty": "A2",
+      "tags": ["口语", "社交"]
+    },
+    {
+      "headword": "sem problema",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["没问题"],
+      "meanings": [{ "definition": "同意或表示不介意", "note": "回应道歉/请求" }],
+      "patterns": ["sem problema", "não tem problema"],
+      "collocations": ["sem problema nenhum"],
+      "examples": [
+        { "sourceText": "— Posso sentar aqui? — Sem problema.", "translation": "——我能坐这儿吗？——没问题。", "note": "" },
+        { "sourceText": "Sem problema, eu espero.", "translation": "没问题，我等着。", "note": "" }
+      ],
+      "relatedExpressions": ["tranquilo", "de boa"],
+      "usageNotes": ["最安全的礼貌回应之一。"],
+      "difficulty": "A1",
+      "tags": ["口语", "社交"]
+    },
+    {
+      "headword": "com licença",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["打扰一下", "借过"],
+      "meanings": [{ "definition": "礼貌地开口或经过", "note": "巴西日常必备" }],
+      "patterns": ["com licença", "licença"],
+      "collocations": ["com licença, posso passar?"],
+      "examples": [
+        { "sourceText": "Com licença, você sabe onde fica a estação?", "translation": "打扰一下，你知道车站在哪里吗？", "note": "向陌生人问路" },
+        { "sourceText": "Com licença, preciso passar.", "translation": "借过一下，我要走过去。", "note": "公交/地铁里常用" }
+      ],
+      "relatedExpressions": ["desculpa", "por favor"],
+      "usageNotes": ["日常礼仪高频，尤其在拥挤场合。"],
+      "difficulty": "A1",
+      "tags": ["礼仪", "日常"]
+    },
+    {
+      "headword": "obrigado obrigada",
+      "type": "expression",
+      "partOfSpeech": "interjeição",
+      "translations": ["谢谢"],
+      "meanings": [{ "definition": "感谢", "note": "男性说 obrigado，女性说 obrigada" }],
+      "patterns": ["obrigado", "obrigada", "muito obrigado"],
+      "collocations": ["obrigado pela ajuda", "obrigado, viu"],
+      "examples": [
+        { "sourceText": "Muito obrigada pela paciência!", "translation": "非常感谢你的耐心！", "note": "女性说话用 obrigada" },
+        { "sourceText": "Obrigado, mas eu já resolvi.", "translation": "谢谢，不过我已经解决了。", "note": "礼貌拒绝帮忙" }
+      ],
+      "relatedExpressions": ["valeu", "agradeço"],
+      "usageNotes": ["词形随说话人性别变化，这是常见错误点。"],
+      "difficulty": "A1",
+      "tags": ["礼仪", "日常"]
+    },
+    {
+      "headword": "quanto custa",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["多少钱"],
+      "meanings": [{ "definition": "询问价格", "note": "购物必备" }],
+      "patterns": ["quanto custa", "quanto custa isso?"],
+      "collocations": ["quanto custa esse?"],
+      "examples": [
+        { "sourceText": "Quanto custa essa camisa?", "translation": "这件衬衫多少钱？", "note": "" },
+        { "sourceText": "Quanto custa pra entregar aqui?", "translation": "送到这里多少钱？", "note": "" }
+      ],
+      "relatedExpressions": ["quanto é", "qual o preço"],
+      "usageNotes": ["巴西口语也常说 quanto é?，更简短。"],
+      "difficulty": "A1",
+      "tags": ["购物", "日常"]
+    },
+    {
+      "headword": "pode deixar",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["交给我吧", "放心"],
+      "meanings": [{ "definition": "承诺帮忙、承担责任", "note": "工作与日常通用" }],
+      "patterns": ["pode deixar", "deixa comigo"],
+      "collocations": ["pode deixar que eu resolvo"],
+      "examples": [
+        { "sourceText": "Pode deixar, eu ligo para eles hoje.", "translation": "交给我吧，我今天给他们打电话。", "note": "" },
+        { "sourceText": "— Você consegue entregar? — Pode deixar!", "translation": "——你能交付吗？——放心！", "note": "" }
+      ],
+      "relatedExpressions": ["deixa comigo", "contar comigo"],
+      "usageNotes": ["给人安全感的高频回应。"],
+      "difficulty": "B1",
+      "tags": ["工作", "口语"]
+    },
+    {
+      "headword": "fazer de propósito",
+      "type": "expression",
+      "partOfSpeech": "expressão",
+      "translations": ["故意的"],
+      "meanings": [{ "definition": "有意为之", "note": "常用于抱怨或质问" }],
+      "patterns": ["fazer de propósito", "foi de propósito"],
+      "collocations": ["foi de propósito, né"],
+      "examples": [
+        { "sourceText": "Você fez isso de propósito?", "translation": "你是故意这么做的吗？", "note": "" },
+        { "sourceText": "Não foi de propósito, desculpa.", "translation": "我不是故意的，抱歉。", "note": "最常用的道歉句式" }
+      ],
+      "relatedExpressions": ["sem querer", "acidental"],
+      "usageNotes": ["非故意说 não foi de propósito 或 foi sem querer。"],
+      "difficulty": "B1",
+      "tags": ["口语", "情感"]
+    }
+  ]
+}
